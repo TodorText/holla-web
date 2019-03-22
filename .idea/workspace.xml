@@ -2,23 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f12a2304-0f9b-4083-9b54-b43c1a284bc9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/HOLLA-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/HOLLA-06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/HOLLA-07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Monkey-05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Monkey-06.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/HOLLA-01.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/HOLLA-01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/HOLLA-03.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/HOLLA-03.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/HOLLA-04.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/HOLLA-04.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/HOLLA-05.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/HOLLA-05.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Monkey-01.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/Monkey-01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Monkey-02.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/Monkey-02.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Monkey-03.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/Monkey-03.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Monkey-04.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/Monkey-04.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/index_scr.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/index_scr.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,18 +12,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/js/index_scr.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2800">
-              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            <state relative-caret-position="841">
+              <caret line="1407" column="3" selection-start-line="1407" selection-start-column="3" selection-end-line="1407" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -66,8 +53,8 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/src/js/1.js" />
-        <option value="$PROJECT_DIR$/src/js/index_scr.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/js/index_scr.js" />
       </list>
     </option>
   </component>
@@ -89,17 +76,6 @@
             <path>
               <item name="hollagroup-site" type="b2602c69:ProjectViewProjectNode" />
               <item name="hollagroup-site" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hollagroup-site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hollagroup-site" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hollagroup-site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hollagroup-site" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -149,13 +125,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5294000" />
+    <option name="totallyTimeSpent" value="5413000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="445" y="1440" width="1859" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23110867" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23110867" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -168,7 +144,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32912722" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32912722" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -206,15 +182,19 @@
     <entry file="file://$PROJECT_DIR$/src/images/HOLLA-02.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/index_scr.js">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2800">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="56">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/js/index_scr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="1407" column="3" selection-start-line="1407" selection-start-column="3" selection-end-line="1407" selection-end-column="3" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
