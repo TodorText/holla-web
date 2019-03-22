@@ -1,1 +1,1454 @@
-eval(function(p,a,c,k,e,r){e=function(c){return(c<62?'':e(parseInt(c/62)))+((c=c%62)>35?String.fromCharCode(c+29):c.toString(36))};if('0'.replace(0,e)==0){while(c--)r[e(c)]=k[c];k=[function(e){return r[e]||e}];e=function(){return'([b-hjl-oqrtv-yB-Y]|[1-7]\\w)'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('E 1I=2a.3Q.1I;E g=1I<3f;E u=navigator.userAgent;E 3g=u.3h(\'Android\')>-1||u.3h(\'Adr\')>-1;E 2i;4P.onresize=c(){1I=2a.3Q.1I;f(1I<3f){2a.3i(\'1Q\')[0].3j.3k=1I/3.2+\'px\'}1f{2a.3i(\'1Q\')[0].3j.3k=1I/19.2+\'px\'}};4P.2j(\'orientationchange\',c(){1I=2a.3Q.1I;f(1I<3f){2a.3i(\'1Q\')[0].3j.3k=1I/3.2+\'px\'}1f{2a.3i(\'1Q\')[0].3j.3k=1I/19.2+\'px\'}},Q);$(c(){f(g){E 3R=2a.getElementById(\'4Q\');E player=2k jsmpeg(\'/l/F/g/g.mpg\',{3R:3R,N:m,O:m,audio:Q})}$(\'.b .w .g-2V\').1L(c(){f(3g){2s.2F=\'1v://2W.3m.1a/3S/2X/4R?id=1a.exutech.chacha&referrer=utm_source%3Dappinvite\'}1f{2s.2F=\'1v://4S.3T.1a/1y/3T-3S/id1125318983?mt=8\'}});$(\'.b .D .g-2V\').1L(c(){f(3g){2s.2F=\'1v://2W.3m.1a/3S/2X/4R?id=cool.D.android\'}1f{2s.2F=\'1v://4S.3T.1a/us/1y/D/id1165924249?mt=8\'}});f(!g){$(\'#1J\').1s()}1f{$(\'#4U\').append(\'<q id="1J" t="section 1J"><q t="2Z x"></q><q t="1w x"></q><q t="2G x"></q><q t="hr d x"><q t="3n"></q><q t="y"><B t="h-d h-CH">人才招聘</B><B t="h-d h-EN">Job Vacancies</B></q><q t="1F"><B t="h-d h-CH">开放、包容、有纪律的 C 2l 正持续不断扩充力量，如果你对工作有激情、对结果有追求，欢迎移步我们的招聘主页⬇️</B><B t="h-d h-EN">More job opportunities please visit 4V linkedin 4W：</B></q><q t="4X"><I l="l/F/4X@2x.R"><B><B t="h-d h-CH">拉勾网</B><B t="h-d h-EN">拉勾网</B></B></q></q><q t="2s d x"><q t="y"><B t="h-d h-CH">北京</B><B t="h-d h-EN">3o</B></q><q t="1F"><q t="1R"><B t="h-d h-CH">东城区</B><B t="h-d h-EN">Address：Room 4Y, Galaxy Soho A， Dongcheng District, 3o, China</B><B t="h-d h-CH">银河SOHO-A座 4Y, 10805室</B><B t="h-d h-EN"></B></q></q><q t="y sec-y"><B t="h-d h-CH">洛杉矶</B><B t="h-d h-EN">3p 3q</B></q><q t="1F"><q t="1R">5792 West Jefferson Blvd., 3p 3q, CA, 90016</q></q><q t="copy">© 1n C 2l<B t="h-d h-CH"><br>京ICP备18049823号</B></q></q><q t="3n x"></q></q>\')}f(3g){$(\'.b .g-2V\').M(\'l\',\'l/F/g/3m-2W@2x.R\')}$(\'.g-J\').1L(c(){f($(\'.g-J\').M(\'l\').3h(\'2H\')===-1){E $2t=$(\'.1z-1A .I\');$2t.M(\'4Z-l\',$2t.M(\'l\'));$2t.M(\'l\',\'/l/F/\'+(g?\'g/\':\'\')+\'w-2u-1u-02@2x.R\');$(\'.g-J\').1s();$(\'.g-J\').1b(\'1S\',0);$(\'.g-J\').M(\'l\',\'/l/F/g/2H@2x.R\');$(\'.g-J\').1k();f(32){32.2m()}E 32=S.T({d:$(\'#J-1x\')[0],U:\'V\',O:Q,N:m,W:\'/X/r/51.r\'});32.2j(\'2I\',c(){32.2m();S.T({d:$(\'#J-1x\')[0],U:\'V\',O:m,N:m,W:\'/X/r/52.r\'})});$(\'.g-J-2b\').1k(3r);$(\'.h-P\').1k();$(\'.Y\').1k();$(\'#J-1x\').1k()}1f{$2t=$(\'.1z-1A .I\');$2t.M(\'l\',$2t.M(\'4Z-l\'));$(\'.g-J\').1s();$(\'.g-J\').1b(\'1S\',\'0.3V\');$(\'.g-J\').M(\'l\',\'/l/F/g/J@2x.R\');$(\'.g-J\').1k();$(\'.g-J-2b\').1o(3r);$(\'.h-P\').1o();$(\'.Y\').1o();$(\'#J-1x\').1o()}});E $2J=$(\'#Y\').53(\'.button\');E $3W=$(\'#Y\').54(\'.3X\');E $2K=$(\'#1B #1x\');E 3s=Q;E 3Y=Q;E 3Z=Q;E 41=Q;E 42=Q;E 43=Q;E 44=Q;E 45=Q;E h=\'CH\';E 2c={1:{14:\'w\',1M:{w:{CH:[\'随机视频聊天\',\'即时约会\',\'与你的 BFF\',\'认识新朋友\'],EN:[\'Instant 1p matches\',\'Make 3t filters\',\'Join 1q party\',\'55 2v 1q 46\']},D:{CH:[\'56 2k 2w\',\'57 58\',\'59 47\',\'1g 5a\'],EN:[\'56 2k 2w\',\'57 58\',\'59 47\',\'1g 5a\']}},1F:{w:{CH:[\'拒绝等待，极速连接\',\'超越时间，跨越空间\',\'你的真实，ta 能看见\',\'来自世界各地\'],EN:[\'5b instantly\',\'Fun 1p effects\',\'Match 2v 48\',\'Find 1q 1K soul\']},D:{CH:[\'3u to 3u\',\'2L 15 5c\',\'5d 5e\',\'2v 49 48\'],EN:[\'3u to 3u\',\'2L 15 5c\',\'5d 5e\',\'2v 49 48\']}}}};E 3v=Q;E 1T={w:0,D:0};c 4a(14){f(3v){1Y}E 3w=2a.querySelectorAll(\'.b .33-d.\'+14+\'-j .I\');1N(E i=0;i<3w.5f;i++){f($(3w[i]).M(\'t\').3h(\'K\')!==-1){1Y}}3v=m;E d=14===\'w\'?\'.34-d\':\'.1G-d\';$(\'.b .33-d.\'+14+\'-j .4b I\').M(\'l\',$(\'.b .33-d.\'+14+\'-j .1O I\').M(\'l\'));3w.forEach(c(2y){5g($(2y).M(\'t\')){2n\'I 4b\':$(2y).M(\'t\',\'I 2o\');35;2n\'I 1O\':$(2y).M(\'t\',\'I 4b\');35;2n\'I 1Z\':$(2y).M(\'t\',\'I 1O\');35;2n\'I 22\':$(2y).M(\'t\',\'I 1Z\');35;2n\'I 2o\':$(2y).M(\'t\',\'I 22\');35}});1T[14]++;f(1T[14]>3){1T[14]=0}f(14===\'w\'){f(1T[14]===0){$(\'.b \'+d+\' .y B\').n(\'5h\')}1f{$(\'.b \'+d+\' .y B\').e(\'5h\')}$(\'.b \'+d+\' .y .h-CH\').1M(2c[1].1M[14].CH[1T[14]]);$(\'.b \'+d+\' .1F .h-CH\').1M(2c[1].1F[14].CH[1T[14]]);$(\'.b \'+d+\' .y .h-EN\').1M(2c[1].1M[14].EN[1T[14]]);$(\'.b \'+d+\' .1F .h-EN\').1M(2c[1].1F[14].EN[1T[14]])}1f{$(\'.b \'+d+\' .y B\').1M(2c[1].1M[14].CH[1T[14]]);$(\'.b \'+d+\' .1F B\').1M(2c[1].1F[14].CH[1T[14]])}3v=Q}E 5i=[{1d:\'l/F/3x.2M\',1h:\'2z://3x.1a/p/5092695.1Q\',1e:\'1U-09-13\',y:\'在日趋同质化的实时视频社交赛道，「C」用减法赢得近千万用户\',j:\'当下，视频社交正值风口，FACEBOOK也在加码视频社交，在实时社交呼声尤其高的1U年，诞生于5j年8月的C算是该细分赛道的前辈产品。如同1g, 美国市场也是 C 最大的市场，但是C 更面向全球，覆盖90几个国家，并在70多个国家已经超过社交榜前50\'},{1d:\'l/F/4c.R\',1h:\'2z://2d.3y.1a/a/212264608_355020\',1e:\'1U-12-20\',y:\'这个中国90后正在变革美国00后的社交方式，10天收购最大竞争对手\',j:\'1U年11月，C收购了最大竞争对手1g 37，这个一度排名北美社交软件下载榜第五的37，在美国00后中的影响力丝毫不比4d逊色。这次被大观资本创始合伙人范路形容为“惊艳”的收购，让C控制了2个在美国社交排行榜排名前40的37，在视频交友这个细分领域占到了90％以上的份额。\'},{1d:\'l/F/3x.2M\',1h:\'2z://3x.1a/p/5108839.1Q\',1e:\'1U-12-20\',y:\'出海[C]收了[1g]！美国00后视频社交也尽在手中\',j:\'「C」一举收购了自己最大的竞品「1g」！在北美实时视频社交的赛道上，「C」是身先士卒的老前辈，「1g」则是不甘示弱的佼佼者，双方同属陌生社交的随机匹配派，主打00后用户\'},{1d:\'l/F/5k.2M\',1h:\'2z://k.5k.1a.cn/article_6105713761_16bedcc610190046hv.1Q?4e=1i&subch=onews\',1e:\'1n-02-23\',y:\'红星专访福布斯精英榜②丨90后5l陶沙：走投无路最容易成功\',j:\'1U年7月，凭借这一成就，陶沙入围了1U年福布斯中国30位30岁以下精英榜。近日，他更是在短短10天内收购了最大竞争对手1g 37,从而创下收购史上“佳话”，引得业内惊叹\'},{1d:\'l/F/4c.R\',1h:\'2z://2d.3y.1a/a/225067971_247350\',1e:\'1n-03-07\',y:\'占领北美视频社交90%份额，这位90后海归做了个视频版探探\',j:\'简单说来，C的产品形态可以类比视频+社交版的探探，其用户来自欧美、东亚、中东等90多个国家，其中美国是其最大的市场，目前C在 70多个国家的2A商店中排名社交榜前50\'},{1d:\'l/F/heishi.5n\',1h:\'1v://5o.5p.1a/s?id=1594379115131296126&5q=5r&1N=pc\',1e:\'1n-03-28\',y:\'C 5l 陶沙：一年增长2000万全球用户，积累了这些经验\',j:\'作C在诞生后的6个月就实现了公司的盈亏平衡，1年不到就收购了最大的竞争对手1g，收购1g后的C团队现在同时运营着这两个美国社交榜排名前30的2A。同为陌生人视频交友软件，1g和C最大的不同是，相比C，1g更加年轻化\'},{1d:\'l/F/5t.2M\',1h:\'1v://2d.5t.1a/article/1952790.1Q\',1e:\'1n-02-24\',y:\'收购了竞争对手之后 C想成为海外最大的陌生人社交公司\',j:\'“C会建立自己的产品矩阵，通过不同的形式服务不同的用户，但最终都是为了解决年轻人的陌生人社交问题”，收购1g之后，陶沙已经为C勾画了更大的蓝图。\'},{1d:\'l/F/souhucaijing.5n\',1h:\'2z://2d.3y.1a/a/233448576_100119172\',1e:\'1n-05-31\',y:\'C 2l 携手拉美青年领袖团发扬创业精神\',j:\'作为中国当代最具活力的创业公司之一，C 2l在拉美青年干部代表团的交流会上分享如何快速在全球市场迅速崛起的经验，并引起拉美青年干部的广泛关注。C 2l成立于5j年下半年，是一家主打海外市场的移动互联网公司。截止1n年年初，C 2l旗下的两款产品C、1g累计获取了遍布全世界一百多个国家的数千万用户\'},{1d:\'l/F/chuangyebang.R\',1h:\'1v://5o.5p.1a/s?id=1595553422152206827&5q=5r&1N=pc\',1e:\'1n-03-21\',y:\'90后创的视频交友社区，几秒内和世界各地有趣的人嗨聊，不到2年收购美国最大竞争对手\',j:\'简单说来，C的产品形态可以类比视频+社交版的探探，其用户来自欧美、东亚、中东等90多个国家，其中美国是其最大的市场，目前C在 70多个国家的2A商店中排名社交榜前50\'},{1d:\'l/F/4c.R\',1h:\'1v://2d.3y.1a/a/226321630_144325\',1e:\'1n-03-25\',y:\'每天几十万北美人在玩的视频社交Top1，竟出自这家中国公司\',j:\'当你点开C，首先能选择几个表情符号：笑脸、伤心、淡定……它们是你情绪的注解。几秒钟匹配后，屏幕上就会出现对方的脸：可能是一位法国小哥、俄罗斯妹子，或是你隔壁的同事。尽管跨越重洋，只要你会说几句英语，就能正常沟通。如果你1P上一段才艺，更能打动一颗陌生的心。\'},{1d:\'l/F/dongdiankeji.R\',1h:\'1v://cn.technode.1a/post/1n-03-08/w/\',1e:\'1n-03-08\',y:\'C：全美第一的随机视频社交 37，00 后的世界了解一下？| 创业\',j:\'1U 年 5 月，C 进入美国社交软件榜前 30；8 月完成 20 亿用户配对。如今，C 已被翻译成 17 种语言、覆盖 L 多个国家和地区，也使得 C 赢得上千万人民币的投资，每年有几千万元的可观收入。\'},{1d:\'l/F/fenghuangwang.R\',1h:\'2z://finance.ifeng.1a/a/20180711/16379254_0.shtml\',1e:\'1n-07-11\',y:\'C 2l勇夺4f 5v 5w亚洲首次路演预热冠军\',j:\'近日，C 2l在由4f 1N 5x与联合创业办公社（5y Square）共同主办的“Let’s go”出海项目路演中，击败其余八项创业项目并勇夺第一。4f 1N 5x是谷歌于2014年成立的项目，旨在利用3m强大的行业领域资源为优秀的创业公司与投资方搭建强劲的联系。截止目前，已有超过4g家的全球顶级VC参与到谷歌5v 5w的路演评审中。\'}];E 5z=[{1d:\'l/F/Venturebeat.R\',1h:\'1v://venturebeat.1a/1n/02/06/w-5B-D-to-5C-1p-27-1N-5D-1C-5E-5F/\',1e:\'1n-02-6\',y:\'2N 5B 1g to 5C 1p 27 1N 5D 1C 5E 5F\',j:\'4h 27 1y 2N 5G competitor 1g today. 2N 5G 1g’s 2B assets 1C now runs operations 1N both 2X P of 2N 5H in 3o 1C 3p 3q. 1g employees, including founders 5I 5J 1C Isaiah Turner, will 5K join 2N. Additional terms of 1q deal were 5K disclosed.\'},{1d:\'l/F/BuzzFeed.R\',1h:\'1v://2d.buzzfeed.1a/denisgloba/3A-generation-z-is-5L-2k-2w-1C-4i-3h2jn?utm_term=.akn9VQ48V#.jawOad9Ya\',1e:\'1n-06-05\',y:\'4j Generation Z Is 5M 4l 5N And Connecting With Them\',j:\'C is a 2P 1p 1y 5O is poised to take 1q lead when it comes to injecting 1q 5P 1C seamlessness of 2P 4m connections back 5Q 1q current 2P 4m climate. Here’s 3A it works:\'},{1d:\'l/F/Odyssey.R\',1h:\'1v://2d.theodysseyonline.1a/2e-is-3A-3B-5R-2v-3C-5L-2k-2w\',1e:\'1n-01-24\',y:\'4n Is 4j 5y 55 Over Are 5M 4l 5N\',j:\'Despite 2P 4m 5S 5T a prevalent factor in 4V daily lives, it 4o 5U difficult to genuinely 4i 2L 2k 3B through 1q 5V. Apps 5T as 1g 4p 5W used by teens 1C 4q recently, C 3E 5W increasing amongst college-aged students 1C individuals.\'},{1d:\'l/F/FORBES.R\',1h:\'1v://2d.forbes.1a/sites/marcusnoel/1n/05/18/hey-facebook-gen-z-is-finding-2k-ways-to-4i-socially/#668329f81468\',1e:\'1n-05-18\',y:\'Hey 4d, Gen Z Is Finding 4l Ways To Connect Socially\',j:\'4n 1y aims to offer a 4q authentic 1C engaging 27 experience compared to traditional 1M-only 2P 2X. Utilizing an interest-based algorithm, 3F of 49 demographics 3C matched 1C given 1q opportunity to 27. C also 3E a 2-Player mode feature where 3F 4o tag-team 2L 2w 1C match 2L others 1N twice 1q 5P.\'},{1d:\'l/F/5X.R\',1h:\'1v://5X.1a/w-1y-review-4r-1p-27-1y-5Y/\',1e:\'1n-03-02\',y:\'C 2A Review | Random 4h 5b 2A – 4j it’s 5Y?\',j:\'2N 2A is 1q recent ‘in’ thing in 1q 46 of 4r 1p 27 2X. Because gone 3C 1q days 5O simple voice 5Z worked. 4h calling 3E 5U a hobby 60 61 something we do to get in touch.\'},{1d:\'l/F/SydneyMorningHerald.2M\',1h:\'1v://2d.smh.1a.au/technology/aussie-whizkid-ben-pasternak-62-63-64-2f-65-1p-27-1y-D-to-4s-20180101-h0c7ea.1Q\',1e:\'1n-01-02\',y:\'Aussie whiz-kid 5I 5J 62 63 64 2f 65 1p 27 1y 1g to 4s\',j:\'1g, 14 raised $US2 66 in venture capital x 5S sold 1C amassed 2H to 3 66 3F 67 made 2v 1 billion 5Z, was purchased late last year by 4s 1y C, 14 3E 5H in 3o 1C 3p 3q. \'},{1d:\'l/F/68.R\',1h:\'1v://68.1a/@kyle_34288/2e-1y-4t-to-69-1q-4u-4v-6a-halloween-1607f85d6e7f\',1e:\'1U-10-20\',y:\'4n 2A 4t to 69 1q 4u 4v 6a Halloween\',j:\'C is a 4r 1p 27 1y inviting 3F 4e 5R 2v 1q 46 to participate in a digital 6b contest. They’re 2G special functionality 5Q 1q 1y 1N 1q 3 day campaign 1C installing a leaderboard so 4v 4o see 3A 3t 6b ranks in real 47. \'},{1d:\'l/F/Mashable.2M\',1h:\'1v://mashable.1a/1U/01/19/D-2P-networking-1y-teenagers/#_NIXvJ.yhmqG\',1e:\'1U-01-19\',y:\'Forget 4d, forget Snapchat: Teens 3C doing it themselves\',j:\'1g is an iOS 1y 1N 3B 67 4p 2w, 1C then they 4p "5V 2w." It\\\'s a 4u to 54 4q of 1q latter, 1q pair say, 60 61 connecting 2L 3B 4e school or 3t neighbourhood. Although, like every other 1y P there, 1g still 4t to mine 3t phone\\\'s contacts\'}];c 4w(){2i=2k Swiper(\'.1i-d\',{slidesPerView:\'auto\',grabCursor:m,allowTouchMove:g,speed:39,on:{slideNextTransitionStart:c(){f(!g){$(\'.Y\').1o();$(\'.1z-1A\').1o()}},reachBeginning:c(){f(!g){$(\'.Y\').1k();$(\'.1z-1A\').1k()}}}})}$(\'.h-P B\').1L(c(){E 2Q=$(\'#1l .1i-d\');$(2e).n(\'1V\');$(2e).siblings().e(\'1V\');h=$(2e).1M();$(\'.h-d\').1s();$(\'.h-\'+h).1P();$(\'#1l .1w.1K\').1k();$(\'#1l .1w.K\').1o();E 6c=2Q.1b(\'4x\');2Q.1b(\'4x\',\'none\');2Q.1o(\'3G\',c(){$(\'#1l .1i-d .4y-6d\').1Q(4z(h));f(2i){2i.4A(0)}2Q.1k(\'3G\',c(){f(2i){2i.2m();4w()}2Q.1b(\'4x\',6c)})});f(h===\'CH\'){$(\'.1H .3H\').1b(\'1S-1m\',\'1.6e\')}1f{$(\'.1H .3H\').1b(\'1S-1m\',\'.49rem\')}f(g){$(\'.g-J\').1s();$(\'.g-J\').1b(\'1S\',\'0.3V\');$(\'.g-J\').M(\'l\',\'/l/F/g/J@2x.R\');$(\'.g-J\').1k();$(\'.g-J-2b\').1o(3r);$(\'.h-P\').1o();$(\'.Y\').1o();$(\'#J-1x\').1o()}1f{$(\'.Y\').1k();$(\'.1z-1A\').1k()}});c 4z(){E 1i=(h===\'CH\'?5i:5z);E 4B=\'\';1N(E i=0;i<1i.5f;i+=2){4B+=\'<q t="4y-slide 1i-3I \'+6f(i)+\'"><a 2F="\'+1i[i].1h+\'" 6g="6h"><q t="1i"><q t="6i"><I l="\'+1i[i].1d+\'" 6j="" t="1d"><B t="1e">\'+1i[i].1e+\'</B></q><q t="y">\'+1i[i].y+\'</q><q t="j">\'+1i[i].j+\'</q></q></a>\'+(1i[i+1]?\'<a 2F="\'+1i[i+1].1h+\'" 6g="6h"><q t="1i"><q t="6i"><I l="\'+1i[i+1].1d+\'" 6j="" t="1d"><B t="1e">\'+1i[i+1].1e+\'</B></q><q t="y">\'+1i[i+1].y+\'</q><q t="j">\'+1i[i+1].j+\'</q></q></a>\':\'\')+\'</q>\'}1Y 4B}c 6f(2R){5g(2R%3){2n 1:1Y\'22\';2n 2:1Y\'1Z\';2n 0:1Y\'1O\'}}$(\'.Y-item\').1L(c(){f(g){o(c(){$(\'.g-J\').1s();$(\'.g-J\').1b(\'1S\',\'0.3V\');$(\'.g-J\').M(\'l\',\'/l/F/g/J@2x.R\');$(\'.g-J\').1k();$(\'.g-J-2b\').1o(3r);$(\'.h-P\').1o();$(\'.Y\').1o();$(\'#J-1x\').1o()},3a)}$.fn.2C.6k($(2e).M(\'data-4W\'))});$(\'.1z-1A\').1L(c(){$.fn.2C.6k(1)});$(\'.4C-4D\').e(\'x\');$(\'#4U\').2C({licenseKey:\'OPEN-SOURCE-GPLV3-LICENSE\',verticalCentered:Q,onLeave:c(1c,v,6l){f(1c){1c=1c.2R+1}1f{1c=1}f(v){v=v.2R+1}1f{v=1}f(1c===2&&v>1c){$(\'#1B #1w\').G({6m:\'2q(5px)\',H:0,6n:\'.6o\',3J:\'.57rem\'},L);$2K.G({H:0,3K:-$2K.3J()},29);$(\'#1B .1p-6p-d\').G({1m:\'-.6q\',H:0},L);$(\'.b-I-d\').n(\'in-1B\');f(v>3){$(\'.b-I-d\').n(\'in-16\')}}f(v===1){$(\'.b-I-d\').n(\'in-16\')}f(v===2){$(\'#1B #1w\').G({6m:\'2q(0)\',H:1,6n:\'.4E\',3J:\'.6e\'},L);$2K.G({H:1,3K:0},29);$(\'#1B .1p-6p-d\').G({1m:\'0\',H:1},L);$(\'.b-I-d\').e(\'in-16\');$(\'.b-I-d\').e(\'in-1B\');$(\'#2D\').1o()}f(v===3||1c===3){$(\'.16 .2E-4F\').1s()}f(1c===3&&v>1c){$(\'#16 .2E\').G({1m:\'.4E\',H:0},L);f(g){$(\'#16 #1G\').n(\'x\');$(\'#16 #2T\').G({1m:\'2.1rem\',H:0},L)}1f{$(\'#16 #1G\').G({1m:\'5.07rem\',H:0},L);$(\'#16 #2T\').G({1m:\'2.6q\',H:0},L)}$(\'#2D\').G({3K:-$(\'#2D\').3J(),H:0},L);$(\'.b-I-d\').n(\'in-16\')}f(v===3){f(3s){$(\'#16 .2E\').G({1m:\'.6o\',H:1},L);f(g){$(\'#16 #1G\').e(\'x\');$(\'#16 #2T\').G({1m:\'1.6rem\',H:1},L)}1f{$(\'#16 #1G\').G({1m:\'5.67rem\',H:1},L);$(\'#16 #2T\').G({1m:\'4E\',H:1},L)}$(\'#2D\').G({3K:\'0\',H:1},L);$(\'.b-I-d\').e(\'in-16\')}}f(1c===4&&v>1c){$(\'#3b .1G\').n(\'2f\')}f(v===4&&v<1c){$(\'#3b .1G\').e(\'2f\')}f(1c===6&&v>1c){$(\'.1W > *\').n(\'2f\')}f(v===6){$(\'.1W > *\').e(\'2f\')}f(1c===7){$(\'.1z-1A\').1k()}f(1c===7&&v<1c){$(\'.1l *\').n(\'2f\')}f(1c===7&&v>1c){$(\'.1l *\').n(\'2f\')}f(v===7){$(\'.1l .1w.K\').1s()}f(v===8){$(\'.1H *\').1b(\'4G\',\'6r\')}f(v===9){o(c(){$(\'.1H *\').1b(\'4G\',\'hidden\')},2U)}},afterLoad:c(1c,v,6l){f(1c){1c=1c.2R+1}1f{1c=1}f(v){v=v.2R+1}1f{v=1}f(!g){$(\'.Y\').1P()}$(\'.4C-4D q\').e(\'1V\');$(\'.4C-4D q\').eq(v-1).n(\'1V\');$3W.e(\'1V\');$3W.eq(v-2).n(\'1V\');f(v>=6||v===1){$(\'#Y .3X-d\').n(\'1s\');$2J.e(\'1V\');f(v!==1){$2J.eq(v-(v===9?5:4)).n(\'1V\')}1f{$2J.eq(0).n(\'1V\')}}1f{$2J.e(\'1V\');$2J.eq(1).n(\'1V\');$(\'#Y .3X-d\').e(\'1s\')}$(\'#Y\').e(\'1R\');$(\'#Y\').e(\'2B\');$(\'.1z-1A .I\').M(\'l\',\'/l/F/\'+(g?\'g/\':\'\')+\'w-2u-1u-02@2x.R\');f(v===2||v===4||v===1||v===7){$(\'.g-J\').n(\'1R\')}1f{$(\'.g-J\').e(\'1R\')}f(v===2){$(\'.b-I-d\').n(\'in-b\');o(c(){$(\'#1B 1p\').G({H:1},L);f(!g){$(\'#1B 1p\')[0].2W()}},870);o(c(){$(\'#1B .1p-d q\').G({H:1},L);$(\'#1B .1p-d I\').G({H:1},L)},4H);o(c(){E 1x=S.T({d:$2K[0],U:\'V\',O:Q,N:m,W:\'/X/r/51.r\'});1x.2j(\'2I\',c(){1x.2m();S.T({d:$2K[0],U:\'V\',O:m,N:m,W:\'/X/r/52.r\'})})},1270);f(!g){$(\'#1B 1p\')[0].2j(\'playing\',c(){$(\'#1B .1p-I\').1s()},m)}$(\'.h-P\').e(\'2g\');$(\'.h-P\').n(\'2h\');f(!g){$(\'.1B 1p\')[0].2W()}o(c(){$(\'.1B .1p-I\').1s();$(\'.1B #4Q\').1b(\'4G\',\'6r\')},30000)}f(v===3){$(\'.h-P\').e(\'2h\');$(\'.h-P\').n(\'2g\');$(\'#2D\').1k();f(!3s){3s=m;o(c(){$(\'#16 .2E\').G({\'1S-1m\':\'0\'},3L);$(\'#16 .2E\').G({H:1},39);$(\'#16 .2E-4F\').n(\'shine\')},29);o(c(){f(g){$(\'#16 #y\').e(\'x\')}1f{$(\'#16 #y\').G({\'1S-1m\':\'0\',\'H\':1},29)}},3M);o(c(){f(g){$(\'#16 #1F\').e(\'x\')}1f{$(\'#16 #1F\').G({\'1S-1m\':\'0\',\'H\':1},29)}},6s);o(c(){E 1x=S.T({d:$(\'#2D\')[0],U:\'V\',O:Q,N:m,W:\'/X/r/02_rocket_start.r\'});1x.2j(\'2I\',c(){1x.2m();S.T({d:$(\'#2D\')[0],U:\'V\',O:m,N:m,W:\'/X/r/02_rocket_loop.r\'})});S.T({d:$(\'#16 #2T\')[0],U:\'V\',O:m,N:m,W:\'/X/r/02_cloud.r\'});$(\'#16 #2T\').G({K:\'3.56rem\',H:1},29)},1100)}o(c(){$(\'.16 .2E-4F\').1k()},3a)}f(v===4){$(\'.h-P\').e(\'2g\');$(\'.h-P\').n(\'2h\');f(!3Y){3Y=m;o(c(){$(\'#3b .photo\').G({\'1S-1m\':\'0\',\'H\':1},4g);$(\'#3b .6t\').G({H:1},L);$(\'#3b .1G\').G({\'1S-1m\':\'0\',\'H\':1},L)},29)}o(c(){f(!g){$(\'#Y\').n(\'1R\')}},4g)}f(v===5){$(\'.h-P\').e(\'2h\');$(\'.h-P\').n(\'2g\');f(!3Z){3Z=m;f(!g){o(c(){$(\'.1D I.4I\').e(\'x\')},L);o(c(){$(\'.1D I.la\').e(\'x\')},29)}1f{$(\'.1D .3N-1O\').G({H:1},29)}o(c(){$(\'.1D .y\').e(\'x\');f(g){$(\'.1D .la\').n(\'G\');$(\'.1D .4I\').n(\'G\')}$(\'.1D .1F\').e(\'x\')},29);o(c(){$(\'.1D .3N-1O\').e(\'x\')},1500);o(c(){$(\'.1D q.4I\').e(\'x\');$(\'.1D q.la\').e(\'x\');$(\'.1D .3N-1Z\').e(\'x\');$(\'.1D .3N-22\').e(\'x\')},1700);o(c(){$(\'#1D .6u\').e(\'x\');$(\'#1D .6v\').e(\'x\');S.T({d:$(\'#1D .6u\')[0],U:\'V\',O:m,N:m,W:\'/X/r/04_planet_left.r\'});S.T({d:$(\'#1D .6v\')[0],U:\'V\',O:m,N:m,W:\'/X/r/03_planet_right.r\'})},6s)}}f(v===1){$(\'.h-P\').e(\'2g\');$(\'.h-P\').n(\'2h\');f(!g){$(\'#Y\').n(\'2B\');$(\'#Y\').n(\'1R\')}$(\'#b .2r\').1b(\'H\',1);$(\'.1z-1A .I\').M(\'l\',\'/l/F/\'+(g?\'g/\':\'\')+\'w-2u-1u-03@2x.R\');f(!41){41=m;$(\'.b .33-d.D-j\').1L(4a.6w(2e,\'D\'));$(\'.b .33-d.w-j\').1L(4a.6w(2e,\'w\'));o(c(){$(\'.b .2r\').e(\'x\');S.T({d:$(\'#b .w .1u\')[0],U:\'V\',O:Q,N:m,W:\'/X/r/05_HOLLAlogo.r\'});S.T({d:$(\'#b .D .1u\')[0],U:\'V\',O:Q,N:m,W:\'/X/r/05_MonkeyLogo.r\'})},L);f(!g){o(c(){$(\'.b .2r\').n(\'P\')},2U);o(c(){$(\'.b .2r\').e(\'P\');$(\'.b .2r\').n(\'in\')},3M);o(c(){$(\'.b .2r\').e(\'in\')},3a)}o(c(){$(\'.b .2r .y\').e(\'x\');$(\'.b .2r .2V\').e(\'x\');$(\'.6x\').1b(\'H\',1)},6y);o(c(){E 1x=S.T({d:$(\'#b .3O-K\')[0],U:\'V\',O:Q,N:m,W:\'/X/r/6z.r\'});1x.2j(\'2I\',c(){1x.2m();S.T({d:$(\'#b .3O-K\')[0],U:\'V\',O:m,N:m,W:\'/X/r/6A.r\'})});E 4K=S.T({d:$(\'#b .3O-1K\')[0],U:\'V\',O:Q,N:m,W:\'/X/r/6z.r\'});4K.2j(\'2I\',c(){4K.2m();S.T({d:$(\'#b .3O-1K\')[0],U:\'V\',O:m,N:m,W:\'/X/r/6A.r\'})})},6y);o(c(){$(\'#b .6x\').e(\'x\');$(\'#b .g-2V\').e(\'x\')},2100);S.T({d:$(\'#b .1x\')[0],U:\'V\',O:m,N:m,W:\'/X/r/06_HOLLAsea.r\'});S.T({d:$(\'#b .D-6B\')[0],U:\'V\',O:m,N:m,W:\'/X/r/07_monkey&6B.r\'})}$(\'#b .w .1u\').1L(c(){f(g||$(\'#b .2b\').1b(\'6C\')===\'6D\'){1Y}$.fn.2C.4L(Q);$(\'.h-P\').1s();$(\'#b .2b\').1k();$(\'#b .2H\').1P();$(\'#b .w-j\').1P();$(\'#b .4M\').1o();$(\'.1z-1A .I\').M(\'l\',\'/l/F/\'+(g?\'g/\':\'\')+\'w-2u-1u-02@2x.R\');$(\'#b .w\').1b({\'K\':\'1.6E\',\'3P-1m\':\'-3.6F\'});$(\'#b .w .1u\').1b({1K:\'.6G\'});$(\'#b .1u\').n(\'no-3e\');$(\'#b .D\').1s();$(\'#Y\').e(\'2B\');$(\'#Y\').e(\'1R\');$(\'#Y\').n(\'2q-7\');$(\'.1z-1A\').n(\'2q-7\');$(\'#b .w .y\').M(\'l\',\'/l/F/6H-6I-6J@2x.R\');2c[1].14=\'w\';o(c(){$(\'#b  .1u\').1b({K:\'0\',1K:\'0\'})},6K);o(c(){$(\'#b .w-j.34-d\').n(\'3G\');$(\'#b .w-j.34-d\').n(\'6L\')});o(c(){$(\'#b .w-j .1O\').n(\'K\');$(\'#b .w-j .1O\').G({H:1},L)},6M);o(c(){$(\'#b .w-j.34-d\').e(\'6L\')},6N);o(c(){$(\'#b .w-j .1O\').e(\'K\')},6O);o(c(){$(\'#b .w-j .1Z\').G({H:1},L);$(\'#b .w-j .1Z\').n(\'K\')},2U);o(c(){$(\'#b .w-j .1Z\').e(\'K\')},3a);o(c(){$(\'#b .w-j .22\').G({H:1},L);$(\'#b .w-j .22\').n(\'K\')},6P);o(c(){$(\'#b .w-j .22\').e(\'K\')},4H);o(c(){$(\'#b .w-j .2o\').G({H:1},L);$(\'#b .w-j .2o\').n(\'K\')},6Q);o(c(){$(\'#b .w-j .2o\').e(\'K\')},6R);1Y Q});$(\'#b .D .1u\').1L(c(){f(g||$(\'#b .2b\').1b(\'6C\')===\'6D\'){1Y}$.fn.2C.4L(Q);$(\'.h-P\').1s();$(\'#b .2b\').1k();$(\'#b .2H\').1P();$(\'#b .D-j\').1P();$(\'#b .4M\').1o();$(\'.1z-1A .I\').M(\'l\',\'/l/F/\'+(g?\'g/\':\'\')+\'w-2u-1u-02@2x.R\');$(\'#b .D\').1b({\'1K\':\'1.6E\',\'3P-1m\':\'-3.6F\'});$(\'#b .D .1u\').1b({K:\'.6G\'});$(\'#b .1u\').n(\'no-3e\');$(\'#b .w\').1s();$(\'#Y\').e(\'2B\');$(\'#Y\').e(\'1R\');$(\'#Y\').n(\'2q-7\');$(\'.1z-1A\').n(\'2q-7\');$(\'#b .D .y\').M(\'l\',\'/l/F/6S-6J@2x.R\');2c[1].14=\'D\';o(c(){$(\'#b  .1u\').1b({K:\'0\',1K:\'0\'})},6K);o(c(){$(\'#b .D-j .1O\').n(\'K\');$(\'#b .D-j .1O\').G({H:1},L);$(\'#b .D-j .1G .y\').n(\'1G-K\');$(\'#b .D-j.hand\').n(\'up\')},6M);o(c(){$(\'#b .D-j .1G .1F\').n(\'1G-K\')},6N);o(c(){$(\'#b .D-j .1O\').e(\'K\');$(\'#b .D-j .1G .y\').n(\'m\')},6O);o(c(){$(\'#b .D-j .1Z\').G({H:1},L);$(\'#b .D-j .1Z\').n(\'K\')},2U);o(c(){$(\'#b .D-j .1Z\').e(\'K\')},3a);o(c(){$(\'#b .D-j .22\').G({H:1},L);$(\'#b .D-j .22\').n(\'K\')},6P);o(c(){$(\'#b .D-j .22\').e(\'K\')},4H);o(c(){$(\'#b .D-j .2o\').G({H:1},L);$(\'#b .D-j .2o\').n(\'K\')},6Q);o(c(){$(\'#b .D-j .2o\').e(\'K\');$(\'#b .D-j .1G .1F\').n(\'m\')},6R);1Y Q});$(\'#b .2H\').1L(c(){$.fn.2C.4L(m);$(\'.h-P\').1P();$(\'#b .2b\').1o();$(\'#b .j\').1s();$(\'#b .4M\').1k();$(\'#Y\').n(\'2B\');$(\'#Y\').n(\'1R\');$(\'.1z-1A .I\').M(\'l\',\'/l/F/\'+(g?\'g/\':\'\')+\'w-2u-1u-03@2x.R\');$(\'#b .D\').1b({\'1K\':\'5.6T\',\'3P-1m\':\'-2.6U\'});$(\'#b .w\').1b({\'K\':\'5.6T\',\'3P-1m\':\'-2.6U\'});$(\'#b .w\').1P();$(\'#b .D\').1P();$(\'#Y\').e(\'2q-7\');$(\'.1z-1A\').e(\'2q-7\');$(\'#b .D .y\').M(\'l\',\'/l/F/6S@2x.R\');$(\'#b .w .y\').M(\'l\',\'/l/F/6H-6I@2x.R\');$(\'#b .1u\').e(\'no-3e\');$(\'#b .w-j.34-d\').e(\'3G\')})}f(v===6){$(\'.h-P\').e(\'2g\');$(\'.h-P\').n(\'2h\');f(!42){42=m;o(c(){$(\'.1W .d\').e(\'x\')},2U);o(c(){E 4N=S.T({d:$(\'#1W .6V\')[0],U:\'V\',O:Q,N:m,W:\'/X/r/08_bee_start.r\'});4N.2j(\'2I\',c(){4N.2m();S.T({d:$(\'#1W .6V\')[0],U:\'V\',O:m,N:m,W:\'/X/r/08_bee_loop.r\'})})},2U);o(c(){S.T({d:$(\'#1W .6W\')[0],U:\'V\',O:Q,N:m,W:\'/X/r/08_grass.r\'});$(\'.1W .6W\').e(\'x\');$(\'.1W .d\').n(\'6t\')},39);$(\'.1W .3I\').1L(c(){$(\'.1W .3I\').e(\'no-3e\');f(+$(2e).53(\'.detail-d\').1b(\'H\')===1){$(\'.1W .3I\').n(\'no-3e\')}})}}f(v===7){$(\'.1l *\').e(\'2f\');$(\'.h-P\').e(\'2g\');$(\'.h-P\').n(\'2h\');f(!g){$(\'.1l .1w.1K\').1k();$(\'#Y\').n(\'2B\');$(\'#Y\').n(\'1R\')}$(\'.1z-1A .I\').M(\'l\',\'/l/F/\'+(g?\'g/\':\'\')+\'w-2u-1u-03@2x.R\');$(\'#1l .1i-d .4y-6d\').1Q(4z(h));4w();$(\'#1l .1w.K\').6X(c(){2i.4A(0);$(\'#1l .1w.1K\').1P();$(\'#1l .1w.K\').1s()});$(\'#1l .1w.1K\').6X(c(){2i.4A(3);$(\'#1l .1w.K\').1P();$(\'#1l .1w.1K\').1s()});f(!43){43=m;o(c(){f(g){S.T({d:$(\'#1l .4O\')[0],U:\'V\',O:Q,N:m,W:\'/X/r/4O-g.r\'})}1f{S.T({d:$(\'#1l .4O\')[0],U:\'V\',O:Q,N:m,W:\'/X/r/09_line.r\'})}o(c(){$(\'#1l .1i-d\').e(\'x\')},3f)},3L);o(c(){S.T({d:$(\'#1l .6Y\')[0],U:\'V\',O:m,N:m,W:\'/X/r/09_camera.r\'});$(\'#1l .6Y\').e(\'x\')},1200)}}f(v===8){$(\'.h-P\').e(\'2h\');$(\'.h-P\').n(\'2g\');f(!44){44=m;o(c(){$(\'#1H .3H\').e(\'x\');$(\'#1H .2s\').e(\'x\')},L);o(c(){$(\'#1H .hr\').e(\'x\')},3L);o(c(){$(\'#1H .3n\').e(\'x\')},39);o(c(){S.T({d:$(\'#1H .2Z\')[0],U:\'V\',O:m,N:m,W:\'/X/r/6Z.r\'});S.T({d:$(\'#1H .1w\')[0],U:\'V\',O:m,N:m,W:\'/X/r/71.r\'});S.T({d:$(\'#1H .2G\')[0],U:\'V\',O:m,N:m,W:\'/X/r/72.r\'});$(\'#1H .2Z\').e(\'x\');$(\'#1H .1w\').e(\'x\');$(\'#1H .2G\').e(\'x\')},3M)}}f(v===9){$(\'.h-P\').e(\'2h\');$(\'.h-P\').n(\'2g\');f(!45){45=m;o(c(){$(\'#1J .3H\').e(\'x\');$(\'#1J .2s\').e(\'x\')},L);o(c(){$(\'#1J .hr\').e(\'x\')},3L);o(c(){$(\'#1J .3n\').e(\'x\')},39);o(c(){S.T({d:$(\'#1J .2Z\')[0],U:\'V\',O:m,N:m,W:\'/X/r/6Z.r\'});S.T({d:$(\'#1J .1w\')[0],U:\'V\',O:m,N:m,W:\'/X/r/71.r\'});S.T({d:$(\'#1J .2G\')[0],U:\'V\',O:m,N:m,W:\'/X/r/72.r\'});$(\'#1J .2Z\').e(\'x\');$(\'#1J .1w\').e(\'x\');$(\'#1J .2G\').e(\'x\')},3M)}}}});$.fn.2C.setKeyboardScrolling(Q)});',[],437,'|||||||||||section1|function|container|removeClass|if|mobile|lang||content||src|true|addClass|setTimeout||div|json||class||destination|holla|before|title|||span|HOLLA|monkey|var|images|animate|opacity|img|menu|left|200|attr|autoplay|loop|out|false|png|bodymovin|loadAnimation|renderer|svg|path|static|navigation||||||which||section3||||com|css|origin|icon|date|else|Monkey|url|news||fadeIn|section7|top|2018|fadeOut|video|the||hide||logo|https|arrow|wave|app|site|head|section2|and|section5||description|word|section8|clientWidth|section9|right|click|text|for|one|show|html|white|padding|moveCount|2017|active|section6||return|two|||three|||||chat||300|document|cover|env|www|this|after|dark|light|mySwiper|addEventListener|new|Group|destroy|case|four||blur|product|location|siteHeadImg|group|over|friends||element|http|App|brand|fullpage|rocket|map|href|building|close|complete|navigationButton|section1Wave|with|jpg|Holla||social|newsContainer|index||cloud|500|download|play|apps||thunder|||wavemenu|carousel|ink|break||APP||600|1000|section4|||hover|800|isAndroid|indexOf|getElementsByTagName|style|fontSize||google|mask|Beijing|Los|Angeles|250|section2Loaded|your|face|moving|moveImgList|36kr|sohu||how|people|are||has|users|normal|cooperate|column|height|bottom|400|700|yellow|spotlight|margin|documentElement|canvas|store|apple||04rem|navigationDot|dot|section3Loaded|section4Loaded||section5Loaded|section6Loaded|section7Loaded|section8Loaded|section9Loaded|world|time|interests|similar|move|zero|souhu|Facebook|from|Google|100|Video|connect|How||New|media|This|can|have|more|random|rival|wants|way|you|initSwiper|transition|swiper|addNews|slideTo|result|progress|bar|3rem|gradient|visibility|1070|beijing||wave1|setAllowScrolling|pro|wave6|line|window|videoCanvas|details|itunes||secParent|our|page|lagou|10803|pre||01_wave_start|01_wave_loop|children|find|All|Meet|Chats|start|Add|vibe|Chat|seconds|keep|chatting|length|switch|wrap|newsCH|2016|sina|CEO||jpeg|baijiahao|baidu|wfr|spider||jiemian||Demo|Day|Entrepreneurs|People|newsEN||acquires|expand|dating|friend|discovery|acquired|offices|Ben|Pasternak|not|making|Making|Friends|that|fun|into|all|being|such|become|internet|been|hitechgazette|different|calls|rather|than|eyes|next|project|selling|million|who|medium|change|celebrate|costume|newsContainerTransition|wrapper|19rem|getNewsClass|target|_blank|info|alt|moveTo|direction|filter|width|9rem|sub|4rem|visible|900|shadow|planet_left|planet_right|bind|pinpai|1300|05_spotlight_start|05_spotlight_loop|banana|display|block|28rem|2rem|32rem|holl|atext|black|330|plus|430|630|930|570|640|1140|monkeytext|64rem|8rem|bee|grass|mouseover|camera|10_thunder||10_arrow|10_building'.split('|'),0,{}))
+var clientWidth = document.documentElement.clientWidth;
+var mobile = clientWidth < 800;
+var u = navigator.userAgent;
+var isAndroid = u.indexOf('Android') > -1 || u.indexOf('Adr') > -1;
+var mySwiper;
+window.onresize = function() {
+    clientWidth = document.documentElement.clientWidth;
+    if (clientWidth < 800) {
+        document.getElementsByTagName('html')[0].style.fontSize = clientWidth / 3.2 + 'px'
+    } else {
+        document.getElementsByTagName('html')[0].style.fontSize = clientWidth / 19.2 + 'px'
+    }
+};
+window.addEventListener('orientationchange',
+    function() {
+        clientWidth = document.documentElement.clientWidth;
+        if (clientWidth < 800) {
+            document.getElementsByTagName('html')[0].style.fontSize = clientWidth / 3.2 + 'px'
+        } else {
+            document.getElementsByTagName('html')[0].style.fontSize = clientWidth / 19.2 + 'px'
+        }
+    },
+    false);
+$(function() {
+    if (mobile) {
+        var canvas = document.getElementById('videoCanvas');
+        var player = new jsmpeg('/src/images/mobile/mobile.mpg', {
+            canvas: canvas,
+            autoplay: true,
+            loop: true,
+            audio: false
+        })
+    }
+    $('.section1 .holla .mobile-download').click(function() {
+        if (isAndroid) {
+            location.href = 'https://play.google.com/store/apps/details?id=com.exutech.chacha&referrer=utm_source%3Dappinvite'
+        } else {
+            location.href = 'https://itunes.apple.com/app/apple-store/id1125318983?mt=8'
+        }
+    });
+    $('.section1 .monkey .mobile-download').click(function() {
+        if (isAndroid) {
+            location.href = 'https://play.google.com/store/apps/details?id=cool.monkey.android'
+        } else {
+            location.href = 'https://itunes.apple.com/us/app/monkey/id1165924249?mt=8'
+        }
+    });
+    if (!mobile) {
+        $('#section9').hide()
+    } else {
+        $('#secParent').append('<div id="section9" class="section section9"><div class="thunder before"></div><div class="arrow before"></div><div class="building before"></div><div class="hr container before"><div class="mask"></div><div class="title"><span class="lang-container lang-CH">人才招聘</span><span class="lang-container lang-EN">Job Vacancies</span></div><div class="description"><span class="lang-container lang-CH">开放、包容、有纪律的 HOLLA Group 正持续不断扩充力量，如果你对工作有激情、对结果有追求，欢迎移步我们的招聘主页⬇️</span><span class="lang-container lang-EN">More job opportunities please visit our linkedin page：</span></div><div class="lagou"><img src="src/images/lagou@2x.png"><span><span class="lang-container lang-CH">拉勾网</span><span class="lang-container lang-EN">拉勾网</span></span></div></div><div class="location container before"><div class="title"><span class="lang-container lang-CH">北京</span><span class="lang-container lang-EN">Beijing</span></div><div class="description"><div class="white"><span class="lang-container lang-CH">东城区</span><span class="lang-container lang-EN">Address：Room 10803, Galaxy Soho A， Dongcheng District, Beijing, China</span><span class="lang-container lang-CH">银河SOHO-A座 10803, 10805室</span><span class="lang-container lang-EN"></span></div></div><div class="title sec-title"><span class="lang-container lang-CH">洛杉矶</span><span class="lang-container lang-EN">Los Angeles</span></div><div class="description"><div class="white">5792 West Jefferson Blvd., Los Angeles, CA, 90016</div></div><div class="copy">© 2018 HOLLA Group<span class="lang-container lang-CH"><br>京ICP备18049823号</span></div></div><div class="mask before"></div></div>')
+    }
+    if (isAndroid) {
+        $('.section1 .mobile-download').attr('src', 'src/images/mobile/google-play@2x.png')
+    }
+    $('.mobile-menu').click(function() {
+        if ($('.mobile-menu').attr('src').indexOf('close') === -1) {
+            var $siteHeadImg = $('.site-head .img');
+            $siteHeadImg.attr('pre-src', $siteHeadImg.attr('src'));
+            $siteHeadImg.attr('src', '/src/images/' + (mobile ? 'mobile/': '') + 'holla-group-logo-02@2x.png');
+            $('.mobile-menu').hide();
+            $('.mobile-menu').css('padding', 0);
+            $('.mobile-menu').attr('src', '/src/images/mobile/close@2x.png');
+            $('.mobile-menu').fadeIn();
+            if (wavemenu) {
+                wavemenu.destroy()
+            }
+            var wavemenu = bodymovin.loadAnimation({
+                container: $('#menu-wave')[0],
+                renderer: 'svg',
+                loop: false,
+                autoplay: true,
+                path: '/static/json/01_wave_start.json'
+            });
+            wavemenu.addEventListener('complete',
+                function() {
+                    wavemenu.destroy();
+                    bodymovin.loadAnimation({
+                        container: $('#menu-wave')[0],
+                        renderer: 'svg',
+                        loop: true,
+                        autoplay: true,
+                        path: '/static/json/01_wave_loop.json'
+                    })
+                });
+            $('.mobile-menu-cover').fadeIn(250);
+            $('.lang-out').fadeIn();
+            $('.navigation').fadeIn();
+            $('#menu-wave').fadeIn()
+        } else {
+            $siteHeadImg = $('.site-head .img');
+            $siteHeadImg.attr('src', $siteHeadImg.attr('pre-src'));
+            $('.mobile-menu').hide();
+            $('.mobile-menu').css('padding', '0.04rem');
+            $('.mobile-menu').attr('src', '/src/images/mobile/menu@2x.png');
+            $('.mobile-menu').fadeIn();
+            $('.mobile-menu-cover').fadeOut(250);
+            $('.lang-out').fadeOut();
+            $('.navigation').fadeOut();
+            $('#menu-wave').fadeOut()
+        }
+    });
+    var $navigationButton = $('#navigation').children('.button');
+    var $navigationDot = $('#navigation').find('.dot');
+    var $section1Wave = $('#section2 #wave');
+    var section2Loaded = false;
+    var section3Loaded = false;
+    var section4Loaded = false;
+    var section5Loaded = false;
+    var section6Loaded = false;
+    var section7Loaded = false;
+    var section8Loaded = false;
+    var section9Loaded = false;
+    var lang = 'CH';
+    var env = {
+        1 : {
+            which: 'holla',
+            text: {
+                holla: {
+                    CH: ['随机视频聊天', '实时语音配对', '可爱清新滤镜', '发现身边美好','酷炫视频特效',
+                        '基于兴趣配对','认识新朋友','认识新朋友'],
+                    EN: ['Instant video matches', 'Live voice chat', 'Make your filters', 'Match nearby','Fun video effects',
+                        'Match over interests','All over the world']
+                },
+                monkey: {
+                    CH: ['Get discovered', 'Meet new friends', 'Win Merch', 'Fun in group','Chats start','Monkey Vibe'],
+                    EN: ['Get discovered', 'Meet new friends', 'Win Merch', 'Fun in group','Chats start','Monkey Vibe']
+                }
+            },
+            description: {
+                holla: {
+                    CH: ['拒绝等待，极速连接', '即时对话，传达情绪', '百变脸孔，呈现新鲜', '探索周围，创造机遇','表达无限，嗨翻全屏',
+                    '超越时间，跨越空间','来自世界各地'],
+                    EN: ['Chat instantly', 'Convey emotions', 'Show diversity', 'Discover fun','Express yourself',
+                        'Bond together','Find the right soul']
+                },
+                monkey: {
+                    CH: [],
+                    EN: []
+                }
+            }
+        }
+    };
+    var moving = false;
+    var moveCount = {
+        holla: 0,
+        monkey: 0
+    };
+    function move(which) {
+        if (moving) {
+            return
+        }
+        var moveImgList = document.querySelectorAll('.section1 .carousel-container.' + which + '-content .img');
+        for (var i = 0; i < moveImgList.length; i++) {
+            if ($(moveImgList[i]).attr('class').indexOf('left') !== -1) {
+                return
+            }
+        }
+        moving = true;
+        var container = which === 'holla' ? '.ink-container': '.word-container';
+        $('.section1 .carousel-container.' + which + '-content .zero img').attr('src', $('.section1 .carousel-container.' + which + '-content .one img').attr('src'));
+
+        if(which === 'holla'){
+            moveImgList.forEach(function(element)  {
+                switch ($(element).attr('class')) {
+                    case 'img zero':
+                        $(element).attr('class', 'img seven');
+                        break;
+                    case 'img one':
+                        $(element).attr('class', 'img zero');
+                        break;
+                    case 'img two':
+                        $(element).attr('class', 'img one');
+                        break;
+                    case 'img three':
+                        $(element).attr('class', 'img two');
+                        break;
+                    case 'img four':
+                        $(element).attr('class', 'img three');
+                        break;
+                    case 'img five':
+                        $(element).attr('class', 'img four');
+                        break;
+                    case 'img six':
+                        $(element).attr('class', 'img five');
+                        break;
+                    case 'img seven':
+                        $(element).attr('class', 'img six');
+                        break;
+                }
+            });
+        }else{
+            moveImgList.forEach(function(element)  {
+                switch ($(element).attr('class')) {
+                    case 'img zero':
+                        $(element).attr('class', 'img six');
+                        break;
+                    case 'img one':
+                        $(element).attr('class', 'img zero');
+                        break;
+                    case 'img two':
+                        $(element).attr('class', 'img one');
+                        break;
+                    case 'img three':
+                        $(element).attr('class', 'img two');
+                        break;
+                    case 'img four':
+                        $(element).attr('class', 'img three');
+                        break;
+                    case 'img five':
+                        $(element).attr('class', 'img four');
+                        break;
+                    case 'img six':
+                        $(element).attr('class', 'img five');
+                        break;
+                }
+            });
+        }
+
+        moveCount[which]++;
+        if (which === 'holla' && moveCount[which] > 6) {
+            moveCount[which] = 0
+        }
+        if (which === 'monkey' && moveCount[which] > 5) {
+            moveCount[which] = 0
+        }
+        if (which === 'holla') {
+            if (moveCount[which] === 0) {
+                $('.section1 ' + container + ' .title span').addClass('wrap')
+            } else {
+                $('.section1 ' + container + ' .title span').removeClass('wrap')
+            }
+            $('.section1 ' + container + ' .title .lang-CH').text(env[1].text[which].CH[moveCount[which]]);
+            $('.section1 ' + container + ' .description .lang-CH').text(env[1].description[which].CH[moveCount[which]]);
+            $('.section1 ' + container + ' .title .lang-EN').text(env[1].text[which].EN[moveCount[which]]);
+            $('.section1 ' + container + ' .description .lang-EN').text(env[1].description[which].EN[moveCount[which]])
+        } else {
+            $('.section1 ' + container + ' .title span').text(env[1].text[which].CH[moveCount[which]]);
+            $('.section1 ' + container + ' .description span').text(env[1].description[which].CH[moveCount[which]])
+        }
+        moving = false
+    }
+    var newsCH = [{
+        icon: 'src/images/36kr.jpg',
+        url: 'http://36kr.com/p/5092695.html',
+        date: '2017-09-13',
+        title: '在日趋同质化的实时视频社交赛道，「HOLLA」用减法赢得近千万用户',
+        content: '当下，视频社交正值风口，FACEBOOK也在加码视频社交，在实时社交呼声尤其高的2017年，诞生于2016年8月的HOLLA算是该细分赛道的前辈产品。如同Monkey, 美国市场也是 HOLLA 最大的市场，但是HOLLA 更面向全球，覆盖90几个国家，并在70多个国家已经超过社交榜前50'
+    },
+        {
+            icon: 'src/images/souhu.png',
+            url: 'http://www.sohu.com/a/212264608_355020',
+            date: '2017-12-20',
+            title: '这个中国90后正在变革美国00后的社交方式，10天收购最大竞争对手',
+            content: '2017年11月，HOLLA收购了最大竞争对手Monkey APP，这个一度排名北美社交软件下载榜第五的APP，在美国00后中的影响力丝毫不比Facebook逊色。这次被大观资本创始合伙人范路形容为“惊艳”的收购，让HOLLA控制了2个在美国社交排行榜排名前40的APP，在视频交友这个细分领域占到了90％以上的份额。'
+        },
+        {
+            icon: 'src/images/36kr.jpg',
+            url: 'http://36kr.com/p/5108839.html',
+            date: '2017-12-20',
+            title: '出海[HOLLA]收了[Monkey]！美国00后视频社交也尽在手中',
+            content: '「HOLLA」一举收购了自己最大的竞品「Monkey」！在北美实时视频社交的赛道上，「HOLLA」是身先士卒的老前辈，「Monkey」则是不甘示弱的佼佼者，双方同属陌生社交的随机匹配派，主打00后用户'
+        },
+        {
+            icon: 'src/images/sina.jpg',
+            url: 'http://k.sina.com.cn/article_6105713761_16bedcc610190046hv.html?from=news&subch=onews',
+            date: '2018-02-23',
+            title: '红星专访福布斯精英榜②丨90后CEO陶沙：走投无路最容易成功',
+            content: '2017年7月，凭借这一成就，陶沙入围了2017年福布斯中国30位30岁以下精英榜。近日，他更是在短短10天内收购了最大竞争对手Monkey APP,从而创下收购史上“佳话”，引得业内惊叹'
+        },
+        {
+            icon: 'src/images/souhu.png',
+            url: 'http://www.sohu.com/a/225067971_247350',
+            date: '2018-03-07',
+            title: '占领北美视频社交90%份额，这位90后海归做了个视频版探探',
+            content: '简单说来，HOLLA的产品形态可以类比视频+社交版的探探，其用户来自欧美、东亚、中东等90多个国家，其中美国是其最大的市场，目前HOLLA在 70多个国家的App商店中排名社交榜前50'
+        },
+        {
+            icon: 'src/images/heishi.jpeg',
+            url: 'https://baijiahao.baidu.com/s?id=1594379115131296126&wfr=spider&for=pc',
+            date: '2018-03-28',
+            title: 'HOLLA CEO 陶沙：一年增长2000万全球用户，积累了这些经验',
+            content: '作HOLLA在诞生后的6个月就实现了公司的盈亏平衡，1年不到就收购了最大的竞争对手Monkey，收购Monkey后的HOLLA团队现在同时运营着这两个美国社交榜排名前30的App。同为陌生人视频交友软件，Monkey和HOLLA最大的不同是，相比HOLLA，Monkey更加年轻化'
+        },
+        {
+            icon: 'src/images/jiemian.jpg',
+            url: 'https://www.jiemian.com/article/1952790.html',
+            date: '2018-02-24',
+            title: '收购了竞争对手之后 HOLLA想成为海外最大的陌生人社交公司',
+            content: '“HOLLA会建立自己的产品矩阵，通过不同的形式服务不同的用户，但最终都是为了解决年轻人的陌生人社交问题”，收购Monkey之后，陶沙已经为HOLLA勾画了更大的蓝图。'
+        },
+        {
+            icon: 'src/images/souhucaijing.jpeg',
+            url: 'http://www.sohu.com/a/233448576_100119172',
+            date: '2018-05-31',
+            title: 'HOLLA Group 携手拉美青年领袖团发扬创业精神',
+            content: '作为中国当代最具活力的创业公司之一，HOLLA Group在拉美青年干部代表团的交流会上分享如何快速在全球市场迅速崛起的经验，并引起拉美青年干部的广泛关注。HOLLA Group成立于2016年下半年，是一家主打海外市场的移动互联网公司。截止2018年年初，HOLLA Group旗下的两款产品HOLLA、Monkey累计获取了遍布全世界一百多个国家的数千万用户'
+        },
+        {
+            icon: 'src/images/chuangyebang.png',
+            url: 'https://baijiahao.baidu.com/s?id=1595553422152206827&wfr=spider&for=pc',
+            date: '2018-03-21',
+            title: '90后创的视频交友社区，几秒内和世界各地有趣的人嗨聊，不到2年收购美国最大竞争对手',
+            content: '简单说来，HOLLA的产品形态可以类比视频+社交版的探探，其用户来自欧美、东亚、中东等90多个国家，其中美国是其最大的市场，目前HOLLA在 70多个国家的App商店中排名社交榜前50'
+        },
+        {
+            icon: 'src/images/souhu.png',
+            url: 'https://www.sohu.com/a/226321630_144325',
+            date: '2018-03-25',
+            title: '每天几十万北美人在玩的视频社交Top1，竟出自这家中国公司',
+            content: '当你点开HOLLA，首先能选择几个表情符号：笑脸、伤心、淡定……它们是你情绪的注解。几秒钟匹配后，屏幕上就会出现对方的脸：可能是一位法国小哥、俄罗斯妹子，或是你隔壁的同事。尽管跨越重洋，只要你会说几句英语，就能正常沟通。如果你show上一段才艺，更能打动一颗陌生的心。'
+        },
+        {
+            icon: 'src/images/dongdiankeji.png',
+            url: 'https://cn.technode.com/post/2018-03-08/holla/',
+            date: '2018-03-08',
+            title: 'HOLLA：全美第一的随机视频社交 APP，00 后的世界了解一下？| 创业',
+            content: '2017 年 5 月，HOLLA 进入美国社交软件榜前 30；8 月完成 20 亿用户配对。如今，HOLLA 已被翻译成 17 种语言、覆盖 200 多个国家和地区，也使得 HOLLA 赢得上千万人民币的投资，每年有几千万元的可观收入。'
+        },
+        {
+            icon: 'src/images/fenghuangwang.png',
+            url: 'http://finance.ifeng.com/a/20180711/16379254_0.shtml',
+            date: '2018-07-11',
+            title: 'HOLLA Group勇夺Google Demo Day亚洲首次路演预热冠军',
+            content: '近日，HOLLA Group在由Google for Entrepreneurs与联合创业办公社（People Square）共同主办的“Let’s go”出海项目路演中，击败其余八项创业项目并勇夺第一。Google for Entrepreneurs是谷歌于2014年成立的项目，旨在利用google强大的行业领域资源为优秀的创业公司与投资方搭建强劲的联系。截止目前，已有超过100家的全球顶级VC参与到谷歌Demo Day的路演评审中。'
+        }];
+    var newsEN = [{
+        icon: 'src/images/Venturebeat.png',
+        url: 'https://venturebeat.com/2018/02/06/holla-acquires-monkey-to-expand-video-chat-for-dating-and-friend-discovery/',
+        date: '2018-02-6',
+        title: 'Holla acquires Monkey to expand video chat for dating and friend discovery',
+        content: 'Video chat app Holla acquired competitor Monkey today. Holla acquired Monkey’s brand assets and now runs operations for both apps out of Holla offices in Beijing and Los Angeles. Monkey employees, including founders Ben Pasternak and Isaiah Turner, will not join Holla. Additional terms of the deal were not disclosed.'
+    },
+        {
+            icon: 'src/images/BuzzFeed.png',
+            url: 'https://www.buzzfeed.com/denisgloba/how-generation-z-is-making-new-friends-and-connect-3h2jn?utm_term=.akn9VQ48V#.jawOad9Ya',
+            date: '2018-06-05',
+            title: 'How Generation Z Is Making New Friends And Connecting With Them',
+            content: 'HOLLA is a social video app that is poised to take the lead when it comes to injecting the fun and seamlessness of social media connections back into the current social media climate. Here’s how it works:'
+        },
+        {
+            icon: 'src/images/Odyssey.png',
+            url: 'https://www.theodysseyonline.com/this-is-how-people-all-over-are-making-new-friends',
+            date: '2018-01-24',
+            title: 'This Is How People All Over Are Making New Friends',
+            content: 'Despite social media being such a prevalent factor in our daily lives, it can become difficult to genuinely connect with new people through the internet. Apps such as Monkey have been used by teens and more recently, HOLLA has been increasing amongst college-aged students and individuals.'
+        },
+        {
+            icon: 'src/images/FORBES.png',
+            url: 'https://www.forbes.com/sites/marcusnoel/2018/05/18/hey-facebook-gen-z-is-finding-new-ways-to-connect-socially/#668329f81468',
+            date: '2018-05-18',
+            title: 'Hey Facebook, Gen Z Is Finding New Ways To Connect Socially',
+            content: 'This app aims to offer a more authentic and engaging chat experience compared to traditional text-only social apps. Utilizing an interest-based algorithm, users of similar demographics are matched and given the opportunity to chat. HOLLA also has a 2-Player mode feature where users can tag-team with friends and match with others for twice the fun.'
+        },
+        {
+            icon: 'src/images/hitechgazette.png',
+            url: 'https://hitechgazette.com/holla-app-review-random-video-chat-app-different/',
+            date: '2018-03-02',
+            title: 'HOLLA App Review | Random Video Chat App – How it’s different?',
+            content: 'Holla App is the recent ‘in’ thing in the world of random video chat apps. Because gone are the days that simple voice calls worked. Video calling has become a hobby rather than something we do to get in touch.'
+        },
+        {
+            icon: 'src/images/SydneyMorningHerald.jpg',
+            url: 'https://www.smh.com.au/technology/aussie-whizkid-ben-pasternak-eyes-next-project-after-selling-video-chat-app-monkey-to-rival-20180101-h0c7ea.html',
+            date: '2018-01-02',
+            title: 'Aussie whiz-kid Ben Pasternak eyes next project after selling video chat app Monkey to rival',
+            content: 'Monkey, which raised $US2 million in venture capital before being sold and amassed close to 3 million users who made over 1 billion calls, was purchased late last year by rival app HOLLA, which has offices in Beijing and Los Angeles. '
+        },
+        {
+            icon: 'src/images/medium.png',
+            url: 'https://medium.com/@kyle_34288/this-app-wants-to-change-the-way-you-celebrate-halloween-1607f85d6e7f',
+            date: '2017-10-20',
+            title: 'This App wants to change the way you celebrate Halloween',
+            content: 'HOLLA is a random video chat app inviting users from all over the world to participate in a digital costume contest. They’re building special functionality into the app for the 3 day campaign and installing a leaderboard so you can see how your costume ranks in real time. '
+        },
+        {
+            icon: 'src/images/Mashable.jpg',
+            url: 'https://mashable.com/2017/01/19/monkey-social-networking-app-teenagers/#_NIXvJ.yhmqG',
+            date: '2017-01-19',
+            title: 'Forget Facebook, forget Snapchat: Teens are doing it themselves',
+            content: 'Monkey is an iOS app for people who have friends, and then they have "internet friends." It\'s a way to find more of the latter, the pair say, rather than connecting with people from school or your neighbourhood. Although, like every other app out there, Monkey still wants to mine your phone\'s contacts'
+        }];
+    function initSwiper() {
+        mySwiper = new Swiper('.news-container', {
+            slidesPerView: 'auto',
+            grabCursor: true,
+            allowTouchMove: mobile,
+            speed: 600,
+            on: {
+                slideNextTransitionStart: function() {
+                    if (!mobile) {
+                        $('.navigation').fadeOut();
+                        $('.site-head').fadeOut()
+                    }
+                },
+                reachBeginning: function() {
+                    if (!mobile) {
+                        $('.navigation').fadeIn();
+                        $('.site-head').fadeIn()
+                    }
+                }
+            }
+        })
+    }
+    $('.lang-out span').click(function() {
+        var newsContainer = $('#section7 .news-container');
+        $(this).addClass('active');
+        $(this).siblings().removeClass('active');
+        lang = $(this).text();
+        $('.lang-container').hide();
+        $('.lang-' + lang).show();
+        $('#section7 .arrow.right').fadeIn();
+        $('#section7 .arrow.left').fadeOut();
+        var newsContainerTransition = newsContainer.css('transition');
+        newsContainer.css('transition', 'none');
+        newsContainer.fadeOut('normal',
+            function() {
+                $('#section7 .news-container .swiper-wrapper').html(addNews(lang));
+                if (mySwiper) {
+                    mySwiper.slideTo(0)
+                }
+                newsContainer.fadeIn('normal',
+                    function() {
+                        if (mySwiper) {
+                            mySwiper.destroy();
+                            initSwiper()
+                        }
+                        newsContainer.css('transition', newsContainerTransition)
+                    })
+            });
+        if (lang === 'CH') {
+            $('.section8 .cooperate').css('padding-top', '1.19rem')
+        } else {
+            $('.section8 .cooperate').css('padding-top', '.49rem')
+        }
+        if (mobile) {
+            $('.mobile-menu').hide();
+            $('.mobile-menu').css('padding', '0.04rem');
+            $('.mobile-menu').attr('src', '/src/images/mobile/menu@2x.png');
+            $('.mobile-menu').fadeIn();
+            $('.mobile-menu-cover').fadeOut(250);
+            $('.lang-out').fadeOut();
+            $('.navigation').fadeOut();
+            $('#menu-wave').fadeOut()
+        } else {
+            $('.navigation').fadeIn();
+            $('.site-head').fadeIn()
+        }
+    });
+    function addNews() {
+        var news = (lang === 'CH' ? newsCH: newsEN);
+        var result = '';
+        for (var i = 0; i < news.length; i += 2) {
+            result += '<div class="swiper-slide news-column ' + getNewsClass(i) + '"><a href="' + news[i].url + '" target="_blank"><div class="news"><div class="info"><img src="' + news[i].icon + '" alt="" class="icon"><span class="date">' + news[i].date + '</span></div><div class="title">' + news[i].title + '</div><div class="content">' + news[i].content + '</div></div></a>' + (news[i + 1] ? '<a href="' + news[i + 1].url + '" target="_blank"><div class="news"><div class="info"><img src="' + news[i + 1].icon + '" alt="" class="icon"><span class="date">' + news[i + 1].date + '</span></div><div class="title">' + news[i + 1].title + '</div><div class="content">' + news[i + 1].content + '</div></div></a>': '') + '</div>'
+        }
+        return result
+    }
+    function getNewsClass(index) {
+        switch (index % 3) {
+            case 1:
+                return 'three';
+            case 2:
+                return 'two';
+            case 0:
+                return 'one'
+        }
+    }
+    $('.navigation-item').click(function() {
+        if (mobile) {
+            setTimeout(function() {
+                    $('.mobile-menu').hide();
+                    $('.mobile-menu').css('padding', '0.04rem');
+                    $('.mobile-menu').attr('src', '/src/images/mobile/menu@2x.png');
+                    $('.mobile-menu').fadeIn();
+                    $('.mobile-menu-cover').fadeOut(250);
+                    $('.lang-out').fadeOut();
+                    $('.navigation').fadeOut();
+                    $('#menu-wave').fadeOut()
+                },
+                1000)
+        }
+        $.fn.fullpage.moveTo($(this).attr('data-page'))
+    });
+    $('.site-head').click(function() {
+        $.fn.fullpage.moveTo(1)
+    });
+    $('.progress-bar').removeClass('before');
+    $('#secParent').fullpage({
+        licenseKey: 'OPEN-SOURCE-GPLV3-LICENSE',
+        verticalCentered: false,
+        onLeave: function(origin, destination, direction) {
+            if (origin) {
+                origin = origin.index + 1
+            } else {
+                origin = 1
+            }
+            if (destination) {
+                destination = destination.index + 1
+            } else {
+                destination = 1
+            }
+            if (origin === 2 && destination > origin) {
+                $('#section2 #arrow').animate({
+                        filter: 'blur(5px)',
+                        opacity: 0,
+                        width: '.9rem',
+                        height: '.57rem'
+                    },
+                    200);
+                $section1Wave.animate({
+                        opacity: 0,
+                        bottom: -$section1Wave.height()
+                    },
+                    300);
+                $('#section2 .video-sub-container').animate({
+                        top: '-.4rem',
+                        opacity: 0
+                    },
+                    200);
+                $('.section1-img-container').addClass('in-section2');
+                if (destination > 3) {
+                    $('.section1-img-container').addClass('in-section3')
+                }
+            }
+            if (destination === 1) {
+                $('.section1-img-container').addClass('in-section3')
+            }
+            if (destination === 2) {
+                $('#section2 #arrow').animate({
+                        filter: 'blur(0)',
+                        opacity: 1,
+                        width: '.3rem',
+                        height: '.19rem'
+                    },
+                    200);
+                $section1Wave.animate({
+                        opacity: 1,
+                        bottom: 0
+                    },
+                    300);
+                $('#section2 .video-sub-container').animate({
+                        top: '0',
+                        opacity: 1
+                    },
+                    200);
+                $('.section1-img-container').removeClass('in-section3');
+                $('.section1-img-container').removeClass('in-section2');
+                $('#rocket').fadeOut()
+            }
+            if (destination === 3 || origin === 3) {
+                $('.section3 .map-gradient').hide()
+            }
+            if (origin === 3 && destination > origin) {
+                $('#section3 .map').animate({
+                        top: '.3rem',
+                        opacity: 0
+                    },
+                    200);
+                if (mobile) {
+                    $('#section3 #word').addClass('before');
+                    $('#section3 #cloud').animate({
+                            top: '2.1rem',
+                            opacity: 0
+                        },
+                        200)
+                } else {
+                    $('#section3 #word').animate({
+                            top: '5.07rem',
+                            opacity: 0
+                        },
+                        200);
+                    $('#section3 #cloud').animate({
+                            top: '2.4rem',
+                            opacity: 0
+                        },
+                        200)
+                }
+                $('#rocket').animate({
+                        bottom: -$('#rocket').height(),
+                        opacity: 0
+                    },
+                    200);
+                $('.section1-img-container').addClass('in-section3')
+            }
+            if (destination === 3) {
+                if (section2Loaded) {
+                    $('#section3 .map').animate({
+                            top: '.9rem',
+                            opacity: 1
+                        },
+                        200);
+                    if (mobile) {
+                        $('#section3 #word').removeClass('before');
+                        $('#section3 #cloud').animate({
+                                top: '1.6rem',
+                                opacity: 1
+                            },
+                            200)
+                    } else {
+                        $('#section3 #word').animate({
+                                top: '5.67rem',
+                                opacity: 1
+                            },
+                            200);
+                        $('#section3 #cloud').animate({
+                                top: '3rem',
+                                opacity: 1
+                            },
+                            200)
+                    }
+                    $('#rocket').animate({
+                            bottom: '0',
+                            opacity: 1
+                        },
+                        200);
+                    $('.section1-img-container').removeClass('in-section3')
+                }
+            }
+            if (origin === 4 && destination > origin) {
+                $('#section4 .word').addClass('after')
+            }
+            if (destination === 4 && destination < origin) {
+                $('#section4 .word').removeClass('after')
+            }
+            if (origin === 6 && destination > origin) {
+                $('.section6 > *').addClass('after')
+            }
+            if (destination === 6) {
+                $('.section6 > *').removeClass('after')
+            }
+            if (origin === 7) {
+                $('.site-head').fadeIn()
+            }
+            if (origin === 7 && destination < origin) {
+                $('.section7 *').addClass('after')
+            }
+            if (origin === 7 && destination > origin) {
+                $('.section7 *').addClass('after')
+            }
+            if (destination === 7) {
+                $('.section7 .arrow.left').hide()
+            }
+            if (destination === 8) {
+                $('.section8 *').css('visibility', 'visible')
+            }
+            if (destination === 9) {
+                setTimeout(function() {
+                        $('.section8 *').css('visibility', 'hidden')
+                    },
+                    500)
+            }
+        },
+        afterLoad: function(origin, destination, direction) {
+            if (origin) {
+                origin = origin.index + 1
+            } else {
+                origin = 1
+            }
+            if (destination) {
+                destination = destination.index + 1
+            } else {
+                destination = 1
+            }
+            if (!mobile) {
+                $('.navigation').show()
+            }
+            $('.progress-bar div').removeClass('active');
+            $('.progress-bar div').eq(destination - 1).addClass('active');
+            $navigationDot.removeClass('active');
+            $navigationDot.eq(destination - 2).addClass('active');
+            if (destination >= 6 || destination === 1) {
+                $('#navigation .dot-container').addClass('hide');
+                $navigationButton.removeClass('active');
+                if (destination !== 1) {
+                    $navigationButton.eq(destination - (destination === 9 ? 5 : 4)).addClass('active')
+                } else {
+                    $navigationButton.eq(0).addClass('active')
+                }
+            } else {
+                $navigationButton.removeClass('active');
+                $navigationButton.eq(1).addClass('active');
+                $('#navigation .dot-container').removeClass('hide')
+            }
+            $('#navigation').removeClass('white');
+            $('#navigation').removeClass('brand');
+            $('.site-head .img').attr('src', '/src/images/' + (mobile ? 'mobile/': '') + 'holla-group-logo-02@2x.png');
+            if (destination === 2 || destination === 4 || destination === 1 || destination === 7) {
+                $('.mobile-menu').addClass('white')
+            } else {
+                $('.mobile-menu').removeClass('white')
+            }
+            if (destination === 2) {
+                $('.section1-img-container').addClass('in-section1');
+                setTimeout(function() {
+                        $('#section2 video').animate({
+                                opacity: 1
+                            },
+                            200);
+                        if (!mobile) {
+                            $('#section2 video')[0].play()
+                        }
+                    },
+                    870);
+                setTimeout(function() {
+                        $('#section2 .video-container div').animate({
+                                opacity: 1
+                            },
+                            200);
+                        $('#section2 .video-container img').animate({
+                                opacity: 1
+                            },
+                            200)
+                    },
+                    1070);
+                setTimeout(function() {
+                        var wave = bodymovin.loadAnimation({
+                            container: $section1Wave[0],
+                            renderer: 'svg',
+                            loop: false,
+                            autoplay: true,
+                            path: '/static/json/01_wave_start.json'
+                        });
+                        wave.addEventListener('complete',
+                            function() {
+                                wave.destroy();
+                                bodymovin.loadAnimation({
+                                    container: $section1Wave[0],
+                                    renderer: 'svg',
+                                    loop: true,
+                                    autoplay: true,
+                                    path: '/static/json/01_wave_loop.json'
+                                })
+                            })
+                    },
+                    1270);
+                if (!mobile) {
+                    $('#section2 video')[0].addEventListener('playing',
+                        function() {
+                            $('#section2 .video-img').hide()
+                        },
+                        true)
+                }
+                $('.lang-out').removeClass('dark');
+                $('.lang-out').addClass('light');
+                if (!mobile) {
+                    $('.section2 video')[0].play()
+                }
+                setTimeout(function() {
+                        $('.section2 .video-img').hide();
+                        $('.section2 #videoCanvas').css('visibility', 'visible')
+                    },
+                    30000)
+            }
+            if (destination === 3) {
+                $('.lang-out').removeClass('light');
+                $('.lang-out').addClass('dark');
+                $('#rocket').fadeIn();
+                if (!section2Loaded) {
+                    section2Loaded = true;
+                    setTimeout(function() {
+                            $('#section3 .map').animate({
+                                    'padding-top': '0'
+                                },
+                                400);
+                            $('#section3 .map').animate({
+                                    opacity: 1
+                                },
+                                600);
+                            $('#section3 .map-gradient').addClass('shine')
+                        },
+                        300);
+                    setTimeout(function() {
+                            if (mobile) {
+                                $('#section3 #title').removeClass('before')
+                            } else {
+                                $('#section3 #title').animate({
+                                        'padding-top': '0',
+                                        'opacity': 1
+                                    },
+                                    300)
+                            }
+                        },
+                        700);
+                    setTimeout(function() {
+                            if (mobile) {
+                                $('#section3 #description').removeClass('before')
+                            } else {
+                                $('#section3 #description').animate({
+                                        'padding-top': '0',
+                                        'opacity': 1
+                                    },
+                                    300)
+                            }
+                        },
+                        900);
+                    setTimeout(function() {
+                            var wave = bodymovin.loadAnimation({
+                                container: $('#rocket')[0],
+                                renderer: 'svg',
+                                loop: false,
+                                autoplay: true,
+                                path: '/static/json/02_rocket_start.json'
+                            });
+                            wave.addEventListener('complete',
+                                function() {
+                                    wave.destroy();
+                                    bodymovin.loadAnimation({
+                                        container: $('#rocket')[0],
+                                        renderer: 'svg',
+                                        loop: true,
+                                        autoplay: true,
+                                        path: '/static/json/02_rocket_loop.json'
+                                    })
+                                });
+                            bodymovin.loadAnimation({
+                                container: $('#section3 #cloud')[0],
+                                renderer: 'svg',
+                                loop: true,
+                                autoplay: true,
+                                path: '/static/json/02_cloud.json'
+                            });
+                            $('#section3 #cloud').animate({
+                                    left: '3.56rem',
+                                    opacity: 1
+                                },
+                                300)
+                        },
+                        1100)
+                }
+                setTimeout(function() {
+                        $('.section3 .map-gradient').fadeIn()
+                    },
+                    1000)
+            }
+            if (destination === 4) {
+                $('.lang-out').removeClass('dark');
+                $('.lang-out').addClass('light');
+                if (!section3Loaded) {
+                    section3Loaded = true;
+                    setTimeout(function() {
+                            $('#section4 .photo').animate({
+                                    'padding-top': '0',
+                                    'opacity': 1
+                                },
+                                100);
+                            $('#section4 .shadow').animate({
+                                    opacity: 1
+                                },
+                                200);
+                            $('#section4 .word').animate({
+                                    'padding-top': '0',
+                                    'opacity': 1
+                                },
+                                200)
+                        },
+                        300)
+                }
+                setTimeout(function() {
+                        if (!mobile) {
+                            $('#navigation').addClass('white')
+                        }
+                    },
+                    100)
+            }
+            if (destination === 5) {
+                $('.lang-out').removeClass('light');
+                $('.lang-out').addClass('dark');
+                if (!section4Loaded) {
+                    section4Loaded = true;
+                    if (!mobile) {
+                        setTimeout(function() {
+                                $('.section5 img.beijing').removeClass('before')
+                            },
+                            200);
+                        setTimeout(function() {
+                                $('.section5 img.la').removeClass('before')
+                            },
+                            300)
+                    } else {
+                        $('.section5 .yellow-one').animate({
+                                opacity: 1
+                            },
+                            300)
+                    }
+                    setTimeout(function() {
+                            $('.section5 .title').removeClass('before');
+                            if (mobile) {
+                                $('.section5 .la').addClass('animate');
+                                $('.section5 .beijing').addClass('animate')
+                            }
+                            $('.section5 .description').removeClass('before')
+                        },
+                        300);
+                    setTimeout(function() {
+                            $('.section5 .yellow-one').removeClass('before')
+                        },
+                        1500);
+                    setTimeout(function() {
+                            $('.section5 div.beijing').removeClass('before');
+                            $('.section5 div.la').removeClass('before');
+                            $('.section5 .yellow-two').removeClass('before');
+                            $('.section5 .yellow-three').removeClass('before')
+                        },
+                        1700);
+                    setTimeout(function() {
+                            $('#section5 .planet_left').removeClass('before');
+                            $('#section5 .planet_right').removeClass('before');
+                            bodymovin.loadAnimation({
+                                container: $('#section5 .planet_left')[0],
+                                renderer: 'svg',
+                                loop: true,
+                                autoplay: true,
+                                path: '/static/json/04_planet_left.json'
+                            });
+                            bodymovin.loadAnimation({
+                                container: $('#section5 .planet_right')[0],
+                                renderer: 'svg',
+                                loop: true,
+                                autoplay: true,
+                                path: '/static/json/03_planet_right.json'
+                            })
+                        },
+                        900)
+                }
+            }
+            if (destination === 1) {
+                $('.lang-out').removeClass('dark');
+                $('.lang-out').addClass('light');
+                if (!mobile) {
+                    $('#navigation').addClass('brand');
+                    $('#navigation').addClass('white')
+                }
+                $('#section1 .product').css('opacity', 1);
+                $('.site-head .img').attr('src', '/src/images/' + (mobile ? 'mobile/': '') + 'holla-group-logo-03@2x.png');
+                if (!section5Loaded) {
+                    section5Loaded = true;
+                    $('.section1 .carousel-container.monkey-content').click(move.bind(this, 'monkey'));
+                    $('.section1 .carousel-container.holla-content').click(move.bind(this, 'holla'));
+                    setTimeout(function() {
+                            $('.section1 .product').removeClass('before');
+                            bodymovin.loadAnimation({
+                                container: $('#section1 .holla .logo')[0],
+                                renderer: 'svg',
+                                loop: false,
+                                autoplay: true,
+                                path: '/static/json/05_HOLLAlogo.json'
+                            });
+                            bodymovin.loadAnimation({
+                                container: $('#section1 .monkey .logo')[0],
+                                renderer: 'svg',
+                                loop: false,
+                                autoplay: true,
+                                path: '/static/json/05_MonkeyLogo.json'
+                            })
+                        },
+                        200);
+                    if (!mobile) {
+                        setTimeout(function() {
+                                $('.section1 .product').addClass('out')
+                            },
+                            500);
+                        setTimeout(function() {
+                                $('.section1 .product').removeClass('out');
+                                $('.section1 .product').addClass('in')
+                            },
+                            700);
+                        setTimeout(function() {
+                                $('.section1 .product').removeClass('in')
+                            },
+                            1000)
+                    }
+                    setTimeout(function() {
+                            $('.section1 .product .title').removeClass('before');
+                            $('.section1 .product .download').removeClass('before');
+                            $('.pinpai').css('opacity', 1)
+                        },
+                        1300);
+                    setTimeout(function() {
+                            var wave = bodymovin.loadAnimation({
+                                container: $('#section1 .spotlight-left')[0],
+                                renderer: 'svg',
+                                loop: false,
+                                autoplay: true,
+                                path: '/static/json/05_spotlight_start.json'
+                            });
+                            wave.addEventListener('complete',
+                                function() {
+                                    wave.destroy();
+                                    bodymovin.loadAnimation({
+                                        container: $('#section1 .spotlight-left')[0],
+                                        renderer: 'svg',
+                                        loop: true,
+                                        autoplay: true,
+                                        path: '/static/json/05_spotlight_loop.json'
+                                    })
+                                });
+                            var wave1 = bodymovin.loadAnimation({
+                                container: $('#section1 .spotlight-right')[0],
+                                renderer: 'svg',
+                                loop: false,
+                                autoplay: true,
+                                path: '/static/json/05_spotlight_start.json'
+                            });
+                            wave1.addEventListener('complete',
+                                function() {
+                                    wave1.destroy();
+                                    bodymovin.loadAnimation({
+                                        container: $('#section1 .spotlight-right')[0],
+                                        renderer: 'svg',
+                                        loop: true,
+                                        autoplay: true,
+                                        path: '/static/json/05_spotlight_loop.json'
+                                    })
+                                })
+                        },
+                        1300);
+                    setTimeout(function() {
+                            $('#section1 .pinpai').removeClass('before');
+                            $('#section1 .mobile-download').removeClass('before')
+                        },
+                        2100);
+                    bodymovin.loadAnimation({
+                        container: $('#section1 .wave')[0],
+                        renderer: 'svg',
+                        loop: true,
+                        autoplay: true,
+                        path: '/static/json/06_HOLLAsea.json'
+                    });
+                    bodymovin.loadAnimation({
+                        container: $('#section1 .monkey-banana')[0],
+                        renderer: 'svg',
+                        loop: true,
+                        autoplay: true,
+                        path: '/static/json/07_monkey&banana.json'
+                    })
+                }
+                $('#section1 .holla .logo').click(function() {
+                    if (mobile || $('#section1 .cover').css('display') === 'block') {
+                        return
+                    }
+                    $.fn.fullpage.setAllowScrolling(false);
+                    $('.lang-out').hide();
+                    $('#section1 .cover').fadeIn();
+                    $('#section1 .close').show();
+                    $('#section1 .holla-content').show();
+                    $('#section1 .pro').fadeOut();
+                    $('.site-head .img').attr('src', '/src/images/' + (mobile ? 'mobile/': '') + 'holla-group-logo-02@2x.png');
+                    $('#section1 .holla').css({
+                        'left': '1.28rem',
+                        'margin-top': '-3.2rem'
+                    });
+                    $('#section1 .holla .logo').css({
+                        right: '.32rem'
+                    });
+                    $('#section1 .logo').addClass('no-hover');
+                    $('#section1 .monkey').hide();
+                    $('#navigation').removeClass('brand');
+                    $('#navigation').removeClass('white');
+                    $('#navigation').addClass('blur-7');
+                    $('.site-head').addClass('blur-7');
+                    $('#section1 .holla .title').attr('src', '/src/images/holl-atext-black@2x.png');
+                    env[1].which = 'holla';
+                    setTimeout(function() {
+                            $('#section1  .logo').css({
+                                left: '0',
+                                right: '0'
+                            })
+                        },
+                        330);
+                    setTimeout(function() {
+                        $('#section1 .holla-content.ink-container').addClass('normal');
+                        $('#section1 .holla-content.ink-container').addClass('plus')
+                    });
+                    setTimeout(function() {
+                            $('#section1 .holla-content .one').addClass('left');
+                            $('#section1 .holla-content .one').animate({
+                                    opacity: 1
+                                },
+                                200)
+                        },
+                        430);
+                    setTimeout(function() {
+                            $('#section1 .holla-content.ink-container').removeClass('plus')
+                        },
+                        630);
+                    setTimeout(function() {
+                            $('#section1 .holla-content .one').removeClass('left')
+                        },
+                        930);
+                    setTimeout(function() {
+                            $('#section1 .holla-content .two').animate({
+                                    opacity: 1
+                                },
+                                200);
+                            $('#section1 .holla-content .two').addClass('left')
+                        },
+                        500);
+                    setTimeout(function() {
+                            $('#section1 .holla-content .two').removeClass('left')
+                        },
+                        1000);
+                    setTimeout(function() {
+                            $('#section1 .holla-content .three').animate({
+                                    opacity: 1
+                                },
+                                200);
+                            $('#section1 .holla-content .three').addClass('left')
+                        },
+                        570);
+                    setTimeout(function() {
+                            $('#section1 .holla-content .three').removeClass('left')
+                        },
+                        1070);
+                    setTimeout(function() {
+                            $('#section1 .holla-content .four').animate({
+                                    opacity: 1
+                                },
+                                200);
+                            $('#section1 .holla-content .four').addClass('left')
+                        },
+                        640);
+                    setTimeout(function() {
+                            $('#section1 .holla-content .four').removeClass('left')
+                        },
+                        1140);
+                    return false
+                });
+                $('#section1 .monkey .logo').click(function() {
+                    if (mobile || $('#section1 .cover').css('display') === 'block') {
+                        return
+                    }
+                    $.fn.fullpage.setAllowScrolling(false);
+                    $('.lang-out').hide();
+                    $('#section1 .cover').fadeIn();
+                    $('#section1 .close').show();
+                    $('#section1 .monkey-content').show();
+                    $('#section1 .pro').fadeOut();
+                    $('.site-head .img').attr('src', '/src/images/' + (mobile ? 'mobile/': '') + 'holla-group-logo-02@2x.png');
+                    $('#section1 .monkey').css({
+                        'right': '1.28rem',
+                        'margin-top': '-3.2rem'
+                    });
+                    $('#section1 .monkey .logo').css({
+                        left: '.32rem'
+                    });
+                    $('#section1 .logo').addClass('no-hover');
+                    $('#section1 .holla').hide();
+                    $('#navigation').removeClass('brand');
+                    $('#navigation').removeClass('white');
+                    $('#navigation').addClass('blur-7');
+                    $('.site-head').addClass('blur-7');
+                    $('#section1 .monkey .title').attr('src', '/src/images/monkeytext-black@2x.png');
+                    env[1].which = 'monkey';
+                    setTimeout(function() {
+                            $('#section1  .logo').css({
+                                left: '0',
+                                right: '0'
+                            })
+                        },
+                        330);
+                    setTimeout(function() {
+                            $('#section1 .monkey-content .one').addClass('left');
+                            $('#section1 .monkey-content .one').animate({
+                                    opacity: 1
+                                },
+                                200);
+                            $('#section1 .monkey-content .word .title').addClass('word-left');
+                            $('#section1 .monkey-content.hand').addClass('up')
+                        },
+                        430);
+                    setTimeout(function() {
+                            $('#section1 .monkey-content .word .description').addClass('word-left')
+                        },
+                        630);
+                    setTimeout(function() {
+                            $('#section1 .monkey-content .one').removeClass('left');
+                            $('#section1 .monkey-content .word .title').addClass('true')
+                        },
+                        930);
+                    setTimeout(function() {
+                            $('#section1 .monkey-content .two').animate({
+                                    opacity: 1
+                                },
+                                200);
+                            $('#section1 .monkey-content .two').addClass('left')
+                        },
+                        500);
+                    setTimeout(function() {
+                            $('#section1 .monkey-content .two').removeClass('left')
+                        },
+                        1000);
+                    setTimeout(function() {
+                            $('#section1 .monkey-content .three').animate({
+                                    opacity: 1
+                                },
+                                200);
+                            $('#section1 .monkey-content .three').addClass('left')
+                        },
+                        570);
+                    setTimeout(function() {
+                            $('#section1 .monkey-content .three').removeClass('left')
+                        },
+                        1070);
+                    setTimeout(function() {
+                            $('#section1 .monkey-content .four').animate({
+                                    opacity: 1
+                                },
+                                200);
+                            $('#section1 .monkey-content .four').addClass('left')
+                        },
+                        640);
+                    setTimeout(function() {
+                            $('#section1 .monkey-content .four').removeClass('left');
+                            $('#section1 .monkey-content .word .description').addClass('true')
+                        },
+                        1140);
+                    return false
+                });
+                $('#section1 .close').click(function() {
+                    $.fn.fullpage.setAllowScrolling(true);
+                    $('.lang-out').show();
+                    $('#section1 .cover').fadeOut();
+                    $('#section1 .content').hide();
+                    $('#section1 .pro').fadeIn();
+                    $('#navigation').addClass('brand');
+                    $('#navigation').addClass('white');
+                    $('.site-head .img').attr('src', '/src/images/' + (mobile ? 'mobile/': '') + 'holla-group-logo-03@2x.png');
+                    $('#section1 .monkey').css({
+                        'right': '5.64rem',
+                        'margin-top': '-2.8rem'
+                    });
+                    $('#section1 .holla').css({
+                        'left': '5.64rem',
+                        'margin-top': '-2.8rem'
+                    });
+                    $('#section1 .holla').show();
+                    $('#section1 .monkey').show();
+                    $('#navigation').removeClass('blur-7');
+                    $('.site-head').removeClass('blur-7');
+                    $('#section1 .monkey .title').attr('src', '/src/images/monkeytext@2x.png');
+                    $('#section1 .holla .title').attr('src', '/src/images/holl-atext@2x.png');
+                    $('#section1 .logo').removeClass('no-hover');
+                    $('#section1 .holla-content.ink-container').removeClass('normal')
+                })
+            }
+            if (destination === 6) {
+                $('.lang-out').removeClass('dark');
+                $('.lang-out').addClass('light');
+                if (!section6Loaded) {
+                    section6Loaded = true;
+                    setTimeout(function() {
+                            $('.section6 .container').removeClass('before')
+                        },
+                        500);
+                    setTimeout(function() {
+                            var wave6 = bodymovin.loadAnimation({
+                                container: $('#section6 .bee')[0],
+                                renderer: 'svg',
+                                loop: false,
+                                autoplay: true,
+                                path: '/static/json/08_bee_start.json'
+                            });
+                            wave6.addEventListener('complete',
+                                function() {
+                                    wave6.destroy();
+                                    bodymovin.loadAnimation({
+                                        container: $('#section6 .bee')[0],
+                                        renderer: 'svg',
+                                        loop: true,
+                                        autoplay: true,
+                                        path: '/static/json/08_bee_loop.json'
+                                    })
+                                })
+                        },
+                        500);
+                    setTimeout(function() {
+                            bodymovin.loadAnimation({
+                                container: $('#section6 .grass')[0],
+                                renderer: 'svg',
+                                loop: false,
+                                autoplay: true,
+                                path: '/static/json/08_grass.json'
+                            });
+                            $('.section6 .grass').removeClass('before');
+                            $('.section6 .container').addClass('shadow')
+                        },
+                        600);
+                    $('.section6 .column').click(function() {
+                        $('.section6 .column').removeClass('no-hover');
+                        if ( + $(this).children('.detail-container').css('opacity') === 1) {
+                            $('.section6 .column').addClass('no-hover')
+                        }
+                    })
+                }
+            }
+            if (destination === 7) {
+                $('.section7 *').removeClass('after');
+                $('.lang-out').removeClass('dark');
+                $('.lang-out').addClass('light');
+                if (!mobile) {
+                    $('.section7 .arrow.right').fadeIn();
+                    $('#navigation').addClass('brand');
+                    $('#navigation').addClass('white')
+                }
+                $('.site-head .img').attr('src', '/src/images/' + (mobile ? 'mobile/': '') + 'holla-group-logo-03@2x.png');
+                $('#section7 .news-container .swiper-wrapper').html(addNews(lang));
+                initSwiper();
+                $('#section7 .arrow.left').mouseover(function() {
+                    mySwiper.slideTo(0);
+                    $('#section7 .arrow.right').show();
+                    $('#section7 .arrow.left').hide()
+                });
+                $('#section7 .arrow.right').mouseover(function() {
+                    mySwiper.slideTo(3);
+                    $('#section7 .arrow.left').show();
+                    $('#section7 .arrow.right').hide()
+                });
+                if (!section7Loaded) {
+                    section7Loaded = true;
+                    setTimeout(function() {
+                            if (mobile) {
+                                bodymovin.loadAnimation({
+                                    container: $('#section7 .line')[0],
+                                    renderer: 'svg',
+                                    loop: false,
+                                    autoplay: true,
+                                    path: '/static/json/line-mobile.json'
+                                })
+                            } else {
+                                bodymovin.loadAnimation({
+                                    container: $('#section7 .line')[0],
+                                    renderer: 'svg',
+                                    loop: false,
+                                    autoplay: true,
+                                    path: '/static/json/09_line.json'
+                                })
+                            }
+                            setTimeout(function() {
+                                    $('#section7 .news-container').removeClass('before')
+                                },
+                                800)
+                        },
+                        400);
+                    setTimeout(function() {
+                            bodymovin.loadAnimation({
+                                container: $('#section7 .camera')[0],
+                                renderer: 'svg',
+                                loop: true,
+                                autoplay: true,
+                                path: '/static/json/09_camera.json'
+                            });
+                            $('#section7 .camera').removeClass('before')
+                        },
+                        1200)
+                }
+            }
+            if (destination === 8) {
+                $('.lang-out').removeClass('light');
+                $('.lang-out').addClass('dark');
+                if (!section8Loaded) {
+                    section8Loaded = true;
+                    setTimeout(function() {
+                            $('#section8 .cooperate').removeClass('before');
+                            $('#section8 .location').removeClass('before')
+                        },
+                        200);
+                    setTimeout(function() {
+                            $('#section8 .hr').removeClass('before')
+                        },
+                        400);
+                    setTimeout(function() {
+                            $('#section8 .mask').removeClass('before')
+                        },
+                        600);
+                    setTimeout(function() {
+                            bodymovin.loadAnimation({
+                                container: $('#section8 .thunder')[0],
+                                renderer: 'svg',
+                                loop: true,
+                                autoplay: true,
+                                path: '/static/json/10_thunder.json'
+                            });
+                            bodymovin.loadAnimation({
+                                container: $('#section8 .arrow')[0],
+                                renderer: 'svg',
+                                loop: true,
+                                autoplay: true,
+                                path: '/static/json/10_arrow.json'
+                            });
+                            bodymovin.loadAnimation({
+                                container: $('#section8 .building')[0],
+                                renderer: 'svg',
+                                loop: true,
+                                autoplay: true,
+                                path: '/static/json/10_building.json'
+                            });
+                            $('#section8 .thunder').removeClass('before');
+                            $('#section8 .arrow').removeClass('before');
+                            $('#section8 .building').removeClass('before')
+                        },
+                        700)
+                }
+            }
+            if (destination === 9) {
+                $('.lang-out').removeClass('light');
+                $('.lang-out').addClass('dark');
+                if (!section9Loaded) {
+                    section9Loaded = true;
+                    setTimeout(function() {
+                            $('#section9 .cooperate').removeClass('before');
+                            $('#section9 .location').removeClass('before')
+                        },
+                        200);
+                    setTimeout(function() {
+                            $('#section9 .hr').removeClass('before')
+                        },
+                        400);
+                    setTimeout(function() {
+                            $('#section9 .mask').removeClass('before')
+                        },
+                        600);
+                    setTimeout(function() {
+                            bodymovin.loadAnimation({
+                                container: $('#section9 .thunder')[0],
+                                renderer: 'svg',
+                                loop: true,
+                                autoplay: true,
+                                path: '/static/json/10_thunder.json'
+                            });
+                            bodymovin.loadAnimation({
+                                container: $('#section9 .arrow')[0],
+                                renderer: 'svg',
+                                loop: true,
+                                autoplay: true,
+                                path: '/static/json/10_arrow.json'
+                            });
+                            bodymovin.loadAnimation({
+                                container: $('#section9 .building')[0],
+                                renderer: 'svg',
+                                loop: true,
+                                autoplay: true,
+                                path: '/static/json/10_building.json'
+                            });
+                            $('#section9 .thunder').removeClass('before');
+                            $('#section9 .arrow').removeClass('before');
+                            $('#section9 .building').removeClass('before')
+                        },
+                        700)
+                }
+            }
+        }
+    });
+    $.fn.fullpage.setKeyboardScrolling(false)
+});
