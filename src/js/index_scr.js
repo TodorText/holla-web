@@ -117,22 +117,26 @@ $(function() {
             which: 'holla',
             text: {
                 holla: {
-                    CH: ['随机视频聊天', '即时约会', '与你的 BFF', '认识新朋友'],
-                    EN: ['Instant video matches', 'Make your filters', 'Join the party', 'All over the world']
+                    CH: ['随机视频聊天', '实时语音配对', '可爱清新滤镜', '发现身边美好','酷炫视频特效',
+                        '基于兴趣配对','认识新朋友','认识新朋友'],
+                    EN: ['Instant video matches', 'Live voice chat', 'Make your filters', 'Match nearby','Fun video effects',
+                        'Match over interests','All over the world']
                 },
                 monkey: {
-                    CH: ['Meet new friends', 'Chats start', 'Add time', 'Monkey vibe'],
-                    EN: ['Meet new friends', 'Chats start', 'Add time', 'Monkey vibe']
+                    CH: ['Get discovered', 'Meet new friends', 'Win Merch', 'Fun in group','Chats start','Monkey Vibe'],
+                    EN: ['Get discovered', 'Meet new friends', 'Win Merch', 'Fun in group','Chats start','Monkey Vibe']
                 }
             },
             description: {
                 holla: {
-                    CH: ['拒绝等待，极速连接', '超越时间，跨越空间', '你的真实，ta 能看见', '来自世界各地'],
-                    EN: ['Chat instantly', 'Fun video effects', 'Match over interests', 'Find the right soul']
+                    CH: ['拒绝等待，极速连接', '即时对话，传达情绪', '百变脸孔，呈现新鲜', '探索周围，创造机遇','表达无限，嗨翻全屏',
+                    '超越时间，跨越空间','来自世界各地'],
+                    EN: ['Chat instantly', 'Convey emotions', 'Show diversity', 'Discover fun','Express yourself',
+                        'Bond together','Find the right soul']
                 },
                 monkey: {
-                    CH: ['face to face', 'with 15 seconds', 'keep chatting', 'over similar interests'],
-                    EN: ['face to face', 'with 15 seconds', 'keep chatting', 'over similar interests']
+                    CH: [],
+                    EN: []
                 }
             }
         }
@@ -155,27 +159,69 @@ $(function() {
         moving = true;
         var container = which === 'holla' ? '.ink-container': '.word-container';
         $('.section1 .carousel-container.' + which + '-content .zero img').attr('src', $('.section1 .carousel-container.' + which + '-content .one img').attr('src'));
-        moveImgList.forEach(function(element) {
-            switch ($(element).attr('class')) {
-                case 'img zero':
-                    $(element).attr('class', 'img four');
-                    break;
-                case 'img one':
-                    $(element).attr('class', 'img zero');
-                    break;
-                case 'img two':
-                    $(element).attr('class', 'img one');
-                    break;
-                case 'img three':
-                    $(element).attr('class', 'img two');
-                    break;
-                case 'img four':
-                    $(element).attr('class', 'img three');
-                    break
-            }
-        });
+
+        if(which === 'holla'){
+            moveImgList.forEach(function(element)  {
+                switch ($(element).attr('class')) {
+                    case 'img zero':
+                        $(element).attr('class', 'img seven');
+                        break;
+                    case 'img one':
+                        $(element).attr('class', 'img zero');
+                        break;
+                    case 'img two':
+                        $(element).attr('class', 'img one');
+                        break;
+                    case 'img three':
+                        $(element).attr('class', 'img two');
+                        break;
+                    case 'img four':
+                        $(element).attr('class', 'img three');
+                        break;
+                    case 'img five':
+                        $(element).attr('class', 'img four');
+                        break;
+                    case 'img six':
+                        $(element).attr('class', 'img five');
+                        break;
+                    case 'img seven':
+                        $(element).attr('class', 'img six');
+                        break;
+                }
+            });
+        }else{
+            moveImgList.forEach(function(element)  {
+                switch ($(element).attr('class')) {
+                    case 'img zero':
+                        $(element).attr('class', 'img six');
+                        break;
+                    case 'img one':
+                        $(element).attr('class', 'img zero');
+                        break;
+                    case 'img two':
+                        $(element).attr('class', 'img one');
+                        break;
+                    case 'img three':
+                        $(element).attr('class', 'img two');
+                        break;
+                    case 'img four':
+                        $(element).attr('class', 'img three');
+                        break;
+                    case 'img five':
+                        $(element).attr('class', 'img four');
+                        break;
+                    case 'img six':
+                        $(element).attr('class', 'img five');
+                        break;
+                }
+            });
+        }
+
         moveCount[which]++;
-        if (moveCount[which] > 3) {
+        if (which === 'holla' && moveCount[which] > 6) {
+            moveCount[which] = 0
+        }
+        if (which === 'monkey' && moveCount[which] > 5) {
             moveCount[which] = 0
         }
         if (which === 'holla') {
