@@ -123,8 +123,8 @@ $(function() {
                         'Match over interests','All over the world']
                 },
                 monkey: {
-                    CH: ['Get discovered', 'Meet new friends', 'Win Merch', 'Fun in group','Chats start','Monkey Vibe'],
-                    EN: ['Get discovered', 'Meet new friends', 'Win Merch', 'Fun in group','Chats start','Monkey Vibe']
+                    CH: ['Get discovered', 'Meet new friends', 'Win Merch', '2P chat','Chats start','Monkey Vibe'],
+                    EN: ['Get discovered', 'Meet new friends', 'Win Merch', '2P chat','Chats start','Monkey Vibe']
                 }
             },
             description: {
@@ -135,8 +135,10 @@ $(function() {
                         'Bond together','Find the right soul']
                 },
                 monkey: {
-                    CH: [],
-                    EN: []
+                    CH: ['Connect with more','Face to face','Monkey Exclusive Style','Fun in group','With 15 seconds',
+                    'Over similar interests'],
+                    EN: ['Connect with more','Face to face','Monkey Exclusive Style','Fun in group','With 15 seconds',
+                        'Over similar interests']
                 }
             }
         }
